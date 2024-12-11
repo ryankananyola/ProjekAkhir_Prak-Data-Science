@@ -1,0 +1,274 @@
+---
+title: "projek_ds"
+author: "Jaconiah-123220088"
+date: "2024-12-01"
+output: pdf_document
+---
+
+# TUGAS DS
+## Hubungan antara tingkat stunting dengan rata-rata konsumsi protein dan tingkat ketahanan pangan suatu daerah di Indonesia
+
+### library
+```{r}
+library(dplyr)
+library(ggplot2)
+```
+
+
+### Data preprocessing
+```{r}
+data_protein = read.csv("data-raw/Konsumsi_Protein.csv")
+data_ikp = read.csv("data-raw/Indeks_Ketahanan_Pangan.csv")
+data_stunting = read.csv("data-raw/Stunting.csv")
+
+data_protein
+data_ikp
+data_stunting
+
+data_ikp = data_ikp %>%
+  mutate(Nama_Kabupaten = trimws(Nama_Kabupaten) %>% tolower()) %>% # menghapus spasi yang tidak perlu pada setiap kolom
+  filter(Tahun == 2018)
+
+data_protein = data_protein %>%
+  mutate(Kabupaten_Kota = gsub("Kabupaten ", "", Kabupaten_Kota) %>%
+           gsub("Kota ", "", .) %>%
+           trimws() %>% tolower())%>%
+  filter(Tahun == 2021)
+
+data_stunting = data_stunting %>%
+  mutate(KABKOTA = trimws(KABKOTA) %>% tolower())
+
+data_protein
+data_ikp
+data_stunting
+```
+
+### Penggabungan Data/Merge
+```{r}
+# stunting & protein
+merge_stunting_protein = merge(data_stunting, data_protein, 
+                                by.x = "KABKOTA", by.y = "Kabupaten_Kota", 
+                                all = TRUE)
+
+# stunting & protein dengan ikp
+final_data = merge(merge_stunting_protein, data_ikp, 
+                    by.x = "KABKOTA", by.y = "Nama_Kabupaten", 
+                    all = TRUE)
+final_data
+
+```
+
+### Data cleaning
+```{r}
+# Pilih kolom
+final_data_cleaned = final_data %>%
+  select(KABKOTA, IKP, Konsumsi_Protein, PCT_STUNTING_2013, PCT_STUNTING_2018)
+
+# Ganti nama kolom
+final_data_cleaned = final_data_cleaned %>%
+  rename(
+    Nama_Kabupaten = KABKOTA,
+    Indeks_Pangan = IKP,
+    Konsumsi_Protein = Konsumsi_Protein,
+    Stunting_2013 = PCT_STUNTING_2013,
+    Stunting_2018 = PCT_STUNTING_2018
+  )
+
+final_data_cleaned = final_data_cleaned %>%
+  select(-Stunting_2013)
+
+# Periksa missing values di dataset
+# summary(final_data_cleaned)
+# sapply(final_data_cleaned, function(x) sum(is.na(x)))
+
+# Hapus baris dengan NA
+final_data_cleaned = na.omit(final_data_cleaned)
+
+final_data_cleaned
+write.csv(final_data_cleaned, "data_cleaned.csv", row.names = FALSE) # agar menyimpan data yang baru dengan format csv
+
+```
+
+### distribusi stunting
+
+```{r}
+ggplot(final_data_cleaned, aes(x = Stunting_2018)) +
+  geom_histogram(binwidth = 2, fill = "skyblue", color = "black") +
+  labs(title = "Distribusi Tingkat Stunting 2018", x = "Stunting (%)", y = "Frekuensi") +
+  theme_minimal()
+```
+
+### Hubungan konsumsi Protein dan tingkat stunting
+```{r}
+ggplot(final_data_cleaned, 
+       aes(x = Konsumsi_Protein, 
+           y = Stunting_2018)) +
+  geom_point(color = "darkgreen", alpha = 0.7) +
+  geom_smooth(method = "lm", se = TRUE, color = "red") +
+  labs(title = "Hubungan Konsumsi Protein dan Tingkat Stunting", 
+       x = "Konsumsi Protein", y = "Tingkat Stunting (%)") +
+  theme_minimal()
+
+```
+
+### hubungan ikp dengan tingkat stunting
+
+```{r}
+ggplot(final_data_cleaned, aes(x = Indeks_Pangan, y = Stunting_2018)) +
+  geom_point(color = "darkblue", alpha = 0.7) +
+  geom_smooth(method = "lm", se = TRUE, color = "orange") +
+  labs(title = "Hubungan Indeks Ketahanan Pangan dan Tingkat Stunting", 
+       x = "Indeks Ketahanan Pangan", y = "Tingkat Stunting (%)") +
+  theme_minimal()
+
+```
+
+
+### Membagi Data
+```{r}
+library(caret)
+set.seed(123)
+
+train_index = createDataPartition(final_data_cleaned$Stunting_2018, p = 0.7, list = FALSE)
+train_data = final_data_cleaned[train_index, ]
+test_data = final_data_cleaned[-train_index, ]
+```
+
+### Melatih model
+```{r}
+model = lm(Stunting_2018 ~ Indeks_Pangan + Konsumsi_Protein, 
+           data = train_data)
+summary(model)
+
+```
+### Evaluasi Model
+```{r}
+# Hitung prediksi pada data uji
+predictions = predict(model, newdata = test_data)
+
+# Hitung Mean Absolute Error (MAE)
+MAE = mean(abs(predictions - test_data$Stunting_2018))
+
+# Hitung rata-rata nilai aktual dari data uji
+mean_data = mean(test_data$Stunting_2018)
+
+# Hitung Percentage Error (PE)
+error = (MAE / mean_data) * 100
+
+cat("Evaluasi Model:\n")
+cat("Mean Absolute Error (MAE):", round(MAE, 2), "\n")
+cat("Dalam Persen:", round(error, 2), "%\n")
+
+```
+### Grafik GGplot
+```{r}
+ggplot(data = test_data, aes(x = predictions, y = Stunting_2018)) +
+  geom_point(color = "blue") +
+  geom_abline(slope = 1, intercept = 0, linetype = "dashed", color = "red") +
+  labs(title = "Prediksi vs Aktual", x = "Prediksi Stunting", y = "Aktual Stunting") +
+  theme_minimal()
+
+```
+
+```{r}
+# Simpan model ke file
+saveRDS(model, file = "model_regresi_stunting.rds")
+
+```
+
+```{r}
+library(shiny)
+library(ggplot2)
+library(dplyr)
+
+# Memuat data
+final_data_cleaned <- read.csv("data_cleaned.csv")
+model <- readRDS("model_regresi_stunting.rds")
+s
+# UI
+ui <- fluidPage(
+  titlePanel("Stunting Prediction Analysis"),
+  
+  sidebarLayout(
+    sidebarPanel(
+      selectInput("kabupaten", "Pilih Kabupaten/Kota:", 
+                  choices = unique(final_data_cleaned$Nama_Kabupaten)),
+      numericInput("protein", "Konsumsi Protein:", value = 0, min = 0, max = 100),
+      numericInput("indeks_pangan", "Indeks Ketahanan Pangan:", value = 0, min = 0, max = 100),
+      actionButton("predict", "Prediksi Stunting 2018")
+    ),
+    
+    mainPanel(
+      textOutput("prediction"),
+      uiOutput("info"),
+      textOutput("comparison"),
+      plotOutput("plot")
+    )
+  )
+)
+
+# Server
+server <- function(input, output) {
+  
+  observeEvent(input$predict, {
+    # Filter data berdasarkan kabupaten yang dipilih
+    selected_data <- final_data_cleaned %>%
+      filter(Nama_Kabupaten == input$kabupaten)
+    
+    # Data baru untuk prediksi
+    new_data <- data.frame(
+      Indeks_Pangan = input$indeks_pangan,
+      Konsumsi_Protein = input$protein
+    )
+    
+    # Prediksi menggunakan model
+    prediction <- predict(model, new_data)
+    
+    # Menampilkan prediksi
+    output$prediction <- renderText({
+      paste("Prediksi Stunting 2018 untuk", input$kabupaten, "adalah", round(prediction, 2), "%")
+    })
+    
+    # Informasi tambahan tentang kabupaten yang dipilih
+    output$info <- renderUI({
+      actual_mean <- round(mean(selected_data$Stunting_2018, na.rm = TRUE), 2)
+      protein_mean <- round(mean(selected_data$Konsumsi_Protein, na.rm = TRUE), 2)
+      pangan_mean <- round(mean(selected_data$Indeks_Pangan, na.rm = TRUE), 2)
+  
+      tags$pre(paste("Informasi Kabupaten/Kota:",
+                 "\nRata-rata Tingkat Stunting Aktual:", actual_mean, "%",
+                 "\nRata-rata Konsumsi Protein:", protein_mean,
+                 "\nRata-rata Indeks Ketahanan Pangan:", pangan_mean))
+    })
+
+    
+    # Membandingkan prediksi dengan rata-rata data aktual
+    output$comparison <- renderText({
+      actual_mean <- round(mean(selected_data$Stunting_2018, na.rm = TRUE), 2)
+      paste("Perbandingan: Prediksi =", round(prediction, 2), 
+            "% vs Tingkat Stunting Aktual Rata-rata =", actual_mean, "%")
+    })
+    
+    # # Visualisasi data kabupaten
+    # output$plot <- renderPlot({
+    #   ggplot(selected_data, aes(x = Konsumsi_Protein, y = Stunting_2018)) +
+    #     geom_point(color = "blue", alpha = 0.7) +
+    #     geom_smooth(method = "lm", se = TRUE, color = "orange") +
+    #     labs(title = paste("Hubungan Konsumsi Protein dan Stunting di", input$kabupaten),
+    #          x = "Konsumsi Protein", y = "Tingkat Stunting (%)") +
+    #     theme_minimal()
+    # })
+  })
+}
+
+# Jalankan aplikasi
+shinyApp(ui = ui, server = server)
+
+
+```
+
+
+
+
+
+

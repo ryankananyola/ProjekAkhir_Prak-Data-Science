@@ -1,0 +1,427 @@
+"Nama_Kabupaten","Indeks_Pangan","Konsumsi_Protein","Stunting_2018"
+"aceh barat",72.26,74.4,32.6
+"aceh barat daya",71.29,60.4,35.4
+"aceh besar",65.51,61.5,38.7
+"aceh jaya",79.57,68.5,34
+"aceh selatan",71.69,61.8,35.9
+"aceh singkil",74.35,62.2,26.9
+"aceh tamiang",74.67,57.7,33.4
+"aceh tengah",72.54,66.9,39.8
+"aceh tenggara",48.22,63.1,45.3
+"aceh timur",67.24,59.3,42.8
+"aceh utara",77.77,55,32.5
+"agam",76.69,57,30
+"alor",62.09,56.2,45.5
+"asahan",79.1,61.9,24.9
+"asmat",27.91,50.1,32.6
+"badung",86.45,63.2,25.2
+"balangan",82.46,71.8,36.2
+"bandung",74.37,66.6,35.2
+"bandung",74.37,61.6,35.2
+"bandung barat",70.84,57.3,36.7
+"banggai",44.84,57.1,31.9
+"banggai kepulauan",66.85,52.9,40.5
+"banggai laut",45.42,56.8,34.2
+"bangka",57.03,66.5,23.9
+"bangka barat",66.21,65,33.3
+"bangka selatan",63.99,62,26.9
+"bangka tengah",55.81,63.7,26.1
+"bangkalan",67.65,54.2,41.9
+"bangli",77.33,61.6,43.1
+"banjar",81.73,68.5,33.4
+"banjar",81.73,75.2,33.4
+"banjarnegara",72.35,63.6,24.1
+"bantaeng",82.1,61.9,21
+"bantul",76.48,63.1,22.9
+"banyumas",73.99,63.1,32
+"banyuwangi",78.93,60.7,32
+"barito kuala",77.99,68.3,34.1
+"barito selatan",72.28,64.5,40.2
+"barito timur",66.4,64.9,42.1
+"barito utara",77.78,57.4,34.6
+"barru",77.17,61.5,34.1
+"batang",77.1,68.4,25.3
+"batang hari",66.56,66,32.8
+"batu bara",77.77,62.2,23.7
+"bekasi",80.65,64.5,26.4
+"bekasi",80.65,68.9,26.4
+"belitung",57.67,64.1,19.9
+"belitung timur",57.32,67.4,14.7
+"belu",53.86,56.8,46.8
+"bener meriah",44.28,65.8,45.9
+"bengkalis",66.21,57.5,32.3
+"bengkayang",68.92,56.4,31.9
+"bengkulu selatan",71.55,59.6,33.7
+"bengkulu tengah",72.63,66.9,23.3
+"bengkulu utara",72.92,60.6,26.8
+"berau",79.5,64.4,31.7
+"bima",75.15,65.8,32
+"bima",75.15,71.6,32
+"bintan",55.75,62.1,21.5
+"bireuen",69.77,66.3,41
+"blitar",78.64,60.6,27.4
+"blitar",78.64,55,27.4
+"blora",81.3,60.1,32.9
+"boalemo",72.79,57.7,44.8
+"bogor",67.56,61,32.9
+"bogor",67.56,59.5,32.9
+"bojonegoro",81.4,57.1,34.9
+"bolaang mongondow",78.36,61.4,28.9
+"bolaang mongondow selatan",77.77,54.6,33.3
+"bolaang mongondow timur",64.9,62.3,26.3
+"bolaang mongondow utara",48.88,60.2,22.2
+"bombana",76.03,57.8,33.9
+"bondowoso",70.03,61,38
+"bone",81.32,58.5,37.3
+"bone bolango",71.29,53.5,29.1
+"boven digoel",50.69,48.2,39.7
+"boyolali",80.36,54.1,28.5
+"brebes",72.55,62.9,38.5
+"buleleng",78.03,61.9,20.5
+"bulukumba",77.88,60.1,36.2
+"bulungan",79.4,64.8,31.2
+"bungo",79.19,58.2,20.7
+"buol",68.36,47.3,34.2
+"buru",72.24,52.8,27
+"buru selatan",56.9,44.9,26.8
+"buton",79.96,57.3,34.9
+"buton selatan",48.07,55.7,34.8
+"buton tengah",49.11,60.8,19.2
+"buton utara",75.76,58.2,37.1
+"ciamis",74.86,67.5,33.4
+"cianjur",71.47,64.5,33.5
+"cilacap",79.19,52.9,32.1
+"cirebon",73.38,75.2,33.7
+"cirebon",73.38,63.6,33.7
+"dairi",78.78,65.1,40.2
+"deiyai",51.6,38.3,23.5
+"deli serdang",77.12,61.9,25.7
+"demak",84.11,65.6,26.1
+"dogiyai",20.33,29.5,57.5
+"dompu",77.43,71.6,33.8
+"donggala",76.49,54.1,36
+"empat lawang",71.18,55.3,36
+"ende",64.65,62.6,32.8
+"enrekang",72.57,60.5,42.7
+"flores timur",66.58,53.8,46.5
+"garut",73.09,52.9,34.6
+"gayo lues",70.09,79.6,44.4
+"gianyar",87.16,64.6,12.1
+"gorontalo",69.24,61.5,34.6
+"gorontalo",69.24,54.5,34.6
+"gorontalo utara",73.53,55.9,33.3
+"gowa",81.54,62.3,44.5
+"gresik",84.7,64.4,27.2
+"grobogan",81.19,58.1,39.2
+"gunung kidul",77.73,61.3,32.5
+"gunung mas",80.91,60.7,38.2
+"halmahera barat",62.13,48,35.3
+"halmahera selatan",72.93,49.8,34.5
+"halmahera tengah",67.48,50.4,41.4
+"halmahera timur",73.86,49.8,38.4
+"halmahera utara",57.87,51.5,25.1
+"hulu sungai selatan",79.79,72.8,35.1
+"hulu sungai tengah",78.69,70.4,32.4
+"hulu sungai utara",78.42,64.4,37.7
+"humbang hasundutan",70.56,67.8,41.3
+"indragiri hilir",66.87,56.4,32.2
+"indragiri hulu",53.79,53.9,32.2
+"indramayu",79.79,79.6,34
+"intan jaya",7.81,36,49.6
+"jayapura",33.22,56.3,24.6
+"jayapura",33.22,49.7,24.6
+"jayawijaya",57.05,37.3,31.6
+"jember",74.02,63.5,38.3
+"jembrana",78.39,68.9,29.1
+"jeneponto",74.94,65.5,41.3
+"jepara",80.95,58,33.6
+"jombang",80.13,63.2,29.8
+"kaimana",45.54,52.3,16.7
+"kampar",70.08,56,32
+"kapuas",77.14,79.7,41.5
+"kapuas hulu",70.42,52.2,40.6
+"karanganyar",82.4,55.1,28
+"karawang",82.69,67.8,33.1
+"karimun",56.6,63.1,31.6
+"karo",76.89,71,29.6
+"katingan",76.54,61.5,33.3
+"kaur",67.68,62.6,34.3
+"kayong utara",73.16,63.5,33.4
+"kebumen",73.32,55.4,33.9
+"kediri",76.31,58.5,29.4
+"kediri",76.31,63.9,29.4
+"keerom",54.3,46.1,38.2
+"kendal",80.84,65.1,25.5
+"kepahiang",73.44,56.4,36.7
+"kepulauan anambas",51.14,52.7,26.1
+"kepulauan aru",51.89,44.4,36
+"kepulauan mentawai",74.12,54.6,32.4
+"kepulauan meranti",48.94,56.3,29.9
+"kepulauan sangihe",50.96,56.9,23
+"kepulauan sula",77.61,47.2,38.6
+"kepulauan talaud",63.62,54.6,23.6
+"kepulauan yapen",61.41,51.8,46.2
+"kerinci",81,57.3,42.4
+"ketapang",75.43,59.5,42.7
+"klaten",78.64,56.4,29.6
+"klungkung",80.32,61.1,21.4
+"kolaka",67.35,66,28.7
+"kolaka timur",81.09,57.4,17.6
+"kolaka utara",64.33,64.1,30.6
+"konawe",66,56.6,29.4
+"konawe kepulauan",64.77,50.3,38.9
+"konawe selatan",77.75,62.5,28
+"konawe utara",74.25,61.8,37.7
+"kotawaringin barat",67.91,72.3,22.1
+"kotawaringin timur",75.5,65.2,48.8
+"kubu raya",75.56,53.7,24.8
+"kudus",82.31,60.3,29.4
+"kulon progo",76.59,56.4,22.7
+"kuningan",75.17,66,28.7
+"kupang",57.92,66.2,41.4
+"kupang",57.92,52.3,41.4
+"kutai barat",70.64,58.4,30
+"kutai timur",71.27,64,30.4
+"labuhan batu",75.9,54.2,36.4
+"labuhan batu selatan",50.64,65.7,34.9
+"labuhan batu utara",76.98,61.5,31.2
+"lahat",70.82,63.6,48.1
+"lamandau",76.45,70.9,28.3
+"lamongan",84.6,64.2,35.5
+"lampung barat",77.43,58.3,33
+"lampung selatan",70.76,61.4,29.1
+"lampung tengah",71.96,59.6,25.3
+"lampung timur",73.63,57,24.7
+"lampung utara",76.48,50.4,26.6
+"landak",72.59,57,42
+"langkat",74.91,58.7,31.6
+"lanny jaya",19.08,42.3,47.1
+"lebak",71.63,70.6,40.2
+"lebong",69.17,62.8,26.1
+"lembata",63.38,52.9,43.1
+"lingga",45.06,63.3,22
+"lombok barat",70.39,70.6,33.6
+"lombok tengah",69.89,78,31.1
+"lombok timur",67.4,88.8,43.5
+"lombok utara",63.34,75.5,29.3
+"lumajang",74.28,66.1,34
+"luwu",76.1,60.7,30.3
+"luwu timur",83,65.8,25.3
+"luwu utara",76.45,65,34.7
+"madiun",81.94,63.1,32.4
+"madiun",81.94,58.7,32.4
+"magelang",76.32,55.3,33.9
+"magelang",76.32,55.3,33.9
+"magetan",84.1,56.4,30.3
+"majalengka",75.92,69.2,36.6
+"majene",75.28,60.2,45.9
+"malaka",54.45,52.6,43
+"malang",75.69,57.7,31.7
+"malang",75.69,55.2,31.7
+"malinau",82.44,55.3,24.6
+"maluku barat daya",45.55,54.2,31.1
+"maluku tengah",36.57,54.9,42.8
+"maluku tenggara",61.85,49.1,31.1
+"mamasa",67.32,64.7,43.2
+"mamberamo raya",21.94,48.1,19.4
+"mamberamo tengah",21.63,31.4,34.8
+"mamuju",70.87,51.2,46.5
+"mamuju tengah",76.52,60.5,41.6
+"mamuju utara",64.02,59.6,34.8
+"mandailing natal",77.44,58.5,48.3
+"manggarai",68.76,67.3,43.3
+"manggarai barat",68.07,62.1,44.3
+"manggarai timur",58.06,61.7,48.4
+"manokwari",61.41,53.9,32.1
+"manokwari selatan",54.3,49.7,40.3
+"mappi",28.34,33.4,33.1
+"maros",72.11,56.5,34.9
+"maybrat",32.55,50.9,42
+"mempawah",76.22,54.6,33.4
+"merangin",76.97,60.2,35
+"merauke",78.53,63.9,22.8
+"mesuji",80.82,55.3,28.2
+"mimika",74.41,61,28
+"minahasa",77.55,66.7,20.1
+"minahasa selatan",74.06,70.7,26.1
+"minahasa tenggara",75.16,68.7,28
+"minahasa utara",79.41,68.7,35.4
+"mojokerto",80.09,62.4,29.9
+"mojokerto",80.09,61.3,29.9
+"morowali",72.76,64.4,34.8
+"morowali utara",73.96,69.1,28.5
+"muara enim",72.12,58.8,34.4
+"muaro jambi",60.98,62.5,20.7
+"mukomuko",74.6,59.1,33.1
+"muna",77.51,60.2,26.8
+"muna barat",52.95,60.3,31.3
+"murung raya",74.14,52,30.8
+"musi banyuasin",75.13,62.4,31.1
+"musi rawas",76.58,59.5,34.6
+"musi rawas utara",62.03,61.7,33.2
+"nabire",78.53,64,27.4
+"nagan raya",72.8,71.3,40.6
+"nagekeo",54.35,59.6,36
+"natuna",54.75,60.9,22.2
+"nduga",7.38,43.4,49.8
+"ngada",68.75,64.6,34.7
+"nganjuk",80.07,60.4,29.6
+"ngawi",79.37,58.7,40.5
+"nias",71.36,53.7,61.3
+"nias barat",57.43,52,45.9
+"nias selatan",63.02,56.8,45.1
+"nias utara",57.34,55.9,45.5
+"nunukan",69.82,60.8,30.5
+"ogan ilir",73.96,60.2,43.9
+"ogan komering ilir",75.49,67.1,30.6
+"ogan komering ulu",73.74,58.5,33.2
+"ogan komering ulu selatan",78.49,54.2,26.4
+"ogan komering ulu timur",73.87,68.7,27.2
+"pacitan",77.35,53.8,26.3
+"padang lawas",65.77,60.9,42.9
+"padang lawas utara",73.26,66.3,47.5
+"padang pariaman",80.23,57.4,26.1
+"pakpak bharat",74.27,65.1,45.6
+"pamekasan",66.35,52.9,44.1
+"pandeglang",70.42,59.7,39.5
+"pangandaran",77.18,68.4,32.7
+"pangkajene dan kepulauan",81.59,70.6,50.5
+"paniai",60.04,38.8,42.4
+"parigi moutong",72.07,54.9,33.7
+"pasaman",77.98,61.4,40.6
+"pasaman barat",75.2,58.8,35.1
+"paser",72.76,64.3,27.5
+"pasuruan",75.97,61.5,39.7
+"pasuruan",75.97,64.2,39.7
+"pati",84.04,64.3,37.9
+"pegunungan arfak",30.25,39.2,35
+"pegunungan bintang",27.71,29.5,38
+"pekalongan",71.17,66.4,35.1
+"pekalongan",71.17,62.4,35.1
+"pelalawan",70.78,59.6,25.5
+"pemalang",74.96,72.4,33.7
+"penajam paser utara",80.18,63.1,31.6
+"penukal abab lematang ilir",67.97,56.8,39.5
+"pesawaran",72.54,60.2,27.5
+"pesisir barat",67.99,55.3,24.4
+"pesisir selatan",49.92,54.4,26.5
+"pidie",75.45,63.7,36.2
+"pidie jaya",71.62,69.2,36.8
+"pinrang",81.01,56.6,43.6
+"pohuwato",68.24,56.1,23.6
+"polewali mandar",77.37,59.9,38.2
+"ponorogo",81.1,56.1,30.5
+"poso",77.96,60,26.2
+"pringsewu",78.48,57.2,20.2
+"probolinggo",69.75,59.7,39.9
+"probolinggo",69.75,63,39.9
+"pulang pisau",54.48,65.9,32.1
+"pulau morotai",72.79,48.4,36.8
+"pulau taliabu",50.9,47.5,37
+"puncak",24.21,23.3,26.5
+"puncak jaya",57.05,31.8,35.4
+"purbalingga",74,51.3,28.9
+"purwakarta",75.55,66.3,41
+"purworejo",78.63,57.9,23.3
+"raja ampat",54.99,55.2,27.6
+"rejang lebong",71.35,59.7,26
+"rembang",77.71,64.1,25.7
+"rokan hilir",57.76,61.9,38.1
+"rokan hulu",52.74,58.1,27.2
+"rote ndao",62.43,53,44
+"sabu raijua",38.58,62.3,46.5
+"sambas",75.77,58.9,39
+"samosir",72.58,71.1,24.4
+"sampang",68.69,59.4,47.9
+"sanggau",60.58,56.9,31.9
+"sarmi",32.55,50.1,19
+"sarolangun",72.7,56.6,18.8
+"sekadau",69.76,54.9,28.7
+"seluma",69.74,54.4,35.9
+"semarang",82.66,57,24.9
+"semarang",82.66,62.5,24.9
+"seram bagian barat",58.51,45.7,33.6
+"seram bagian timur",35.76,51.4,40.6
+"serang",75.58,59.6,32
+"serang",75.58,66.3,32
+"serdang bedagai",78.3,62.2,36
+"seruyan",79.27,66.2,21.8
+"siak",58.18,60.8,21
+"sidenreng rappang",83.44,71.6,31.7
+"sidoarjo",73.55,60.8,27
+"sigi",74.82,60.2,43
+"sijunjung",75.34,56,35
+"sikka",56.32,50.5,33
+"simalungun",73.45,63.3,28.4
+"simeulue",67.97,51.6,47.3
+"sinjai",75.92,73.6,42.2
+"sintang",76.44,52.3,33.2
+"situbondo",73.32,71.9,30.7
+"sleman",83.49,73,14.7
+"solok",80.66,55.5,41.5
+"solok",80.66,57.3,41.5
+"solok selatan",75.82,59.5,27.7
+"soppeng",79.09,58.7,35.5
+"sorong",55.02,57.1,32.3
+"sorong",55.02,60.3,32.3
+"sorong selatan",44.02,43,39.6
+"sragen",82.22,59.1,33.2
+"subang",78.85,69,28.6
+"sukabumi",74.32,63.9,41.4
+"sukabumi",74.32,66.9,41.4
+"sukamara",71.23,70.9,24.9
+"sukoharjo",85.21,56.2,31.3
+"sumba barat",74.11,52.7,47.8
+"sumba barat daya",68.9,57.3,40
+"sumba tengah",54.86,53,45.4
+"sumba timur",61.44,57.4,39.3
+"sumbawa",76.25,67.7,31.5
+"sumbawa barat",77.73,81.7,18.3
+"sumedang",79.18,65.5,32.2
+"sumenep",68.64,78,34.3
+"supiori",35.55,79.7,35
+"tabalong",81.11,66.1,39.6
+"tabanan",88.3,62.6,16.1
+"takalar",80.15,61.4,40.6
+"tambrauw",26.03,43.6,41.5
+"tana tidung",78.26,62.1,37.6
+"tana toraja",74.48,59.7,47
+"tanah bumbu",84.06,66.5,28.6
+"tanah datar",73.36,58.4,26.3
+"tanah laut",79.76,64.6,33.2
+"tangerang",71.1,77.1,23.2
+"tangerang",71.1,70.7,23.2
+"tanggamus",72.18,55.5,29.9
+"tanjung jabung barat",74.18,59.6,44
+"tanjung jabung timur",71.04,57.8,40.9
+"tapanuli selatan",70.47,62.3,28.8
+"tapanuli tengah",63.43,62.3,43.7
+"tapanuli utara",67.37,67.1,38.3
+"tapin",83,74.2,36
+"tasikmalaya",72.28,59.5,33.8
+"tasikmalaya",72.28,70.1,33.8
+"tebo",73.89,64.1,33
+"tegal",74.7,66.7,30.6
+"tegal",74.7,69.2,30.6
+"teluk bintuni",37.23,53.8,28.5
+"teluk wondama",33.22,48.5,25.3
+"temanggung",79.27,51.1,30.3
+"timor tengah selatan",61.28,56,56
+"timor tengah utara",61.5,57.4,56.8
+"toba samosir",82.32,70.4,29.7
+"tojo una-una",63.73,48.5,26.2
+"toli-toli",78.12,49.8,31.7
+"tolikara",29.83,37,21.3
+"toraja utara",75.21,60.1,40.7
+"trenggalek",76.35,57.2,39.9
+"tuban",78.61,63.9,30.8
+"tulang bawang barat",80.7,48.2,27.2
+"tulungagung",81.88,58.5,26.2
+"wajo",81.24,63.2,32.2
+"wakatobi",72.23,59.6,29.1
+"waropen",50.18,52.9,52.6
+"way kanan",78.24,57.4,36.1
+"wonogiri",81.83,56.1,27.9
+"wonosobo",75.87,57,31.5
+"yahukimo",28.31,30.7,34.2
+"yalimo",30.71,43.8,0

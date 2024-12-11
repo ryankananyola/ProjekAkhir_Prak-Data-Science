@@ -1,0 +1,1543 @@
+No,Kabupaten_Kota,Provinsi,Tahun,Konsumsi_Protein
+1,Kabupaten Simeulue,Aceh,2021,51.6
+2,Kabupaten Aceh Singkil,Aceh,2021,62.2
+3,Kabupaten Aceh Selatan,Aceh,2021,61.8
+4,Kabupaten Aceh Tenggara,Aceh,2021,63.1
+5,Kabupaten Aceh Timur,Aceh,2021,59.3
+6,Kabupaten Aceh Tengah,Aceh,2021,66.9
+7,Kabupaten Aceh Barat,Aceh,2021,74.4
+8,Kabupaten Aceh Besar,Aceh,2021,61.5
+9,Kabupaten Pidie,Aceh,2021,63.7
+10,Kabupaten Bireuen,Aceh,2021,66.3
+11,Kabupaten Aceh Utara,Aceh,2021,55.0
+12,Kabupaten Aceh Barat Daya,Aceh,2021,60.4
+13,Kabupaten Gayo Lues,Aceh,2021,79.6
+14,Kabupaten Aceh Tamiang,Aceh,2021,57.7
+15,Kabupaten Nagan Raya,Aceh,2021,71.3
+16,Kabupaten Aceh Jaya,Aceh,2021,68.5
+17,Kabupaten Bener Meriah,Aceh,2021,65.8
+18,Kabupaten Pidie Jaya,Aceh,2021,69.2
+19,Kota Banda Aceh,Aceh,2021,66.7
+20,Kota Sabang,Aceh,2021,63.8
+21,Kota Langsa,Aceh,2021,66.8
+22,Kota Lhokseumawe,Aceh,2021,62.6
+23,Kota Subulussalam,Aceh,2021,57.7
+24,Kabupaten Nias,Sumatera Utara,2021,53.7
+25,Kabupaten Mandailing Natal,Sumatera Utara,2021,58.5
+26,Kabupaten Tapanuli Selatan,Sumatera Utara,2021,62.3
+27,Kabupaten Tapanuli Tengah,Sumatera Utara,2021,62.3
+28,Kabupaten Tapanuli Utara,Sumatera Utara,2021,67.1
+29,Kabupaten Toba Samosir,Sumatera Utara,2021,70.4
+30,Kabupaten Labuhan Batu,Sumatera Utara,2021,54.2
+31,Kabupaten Asahan,Sumatera Utara,2021,61.9
+32,Kabupaten Simalungun,Sumatera Utara,2021,63.3
+33,Kabupaten Dairi,Sumatera Utara,2021,65.1
+34,Kabupaten Karo,Sumatera Utara,2021,71.0
+35,Kabupaten Deli Serdang,Sumatera Utara,2021,61.9
+36,Kabupaten Langkat,Sumatera Utara,2021,58.7
+37,Kabupaten Nias Selatan,Sumatera Utara,2021,56.8
+38,Kabupaten Humbang Hasundutan,Sumatera Utara,2021,67.8
+39,Kabupaten Pakpak Bharat,Sumatera Utara,2021,65.1
+40,Kabupaten Samosir,Sumatera Utara,2021,71.1
+41,Kabupaten Serdang Bedagai,Sumatera Utara,2021,62.2
+42,Kabupaten Batu Bara,Sumatera Utara,2021,62.2
+43,Kabupaten Padang Lawas Utara,Sumatera Utara,2021,66.3
+44,Kabupaten Padang Lawas,Sumatera Utara,2021,60.9
+45,Kabupaten Labuhan Batu Selatan,Sumatera Utara,2021,65.7
+46,Kabupaten Labuhan Batu Utara,Sumatera Utara,2021,61.5
+47,Kabupaten Nias Utara,Sumatera Utara,2021,55.9
+48,Kabupaten Nias Barat,Sumatera Utara,2021,52.0
+49,Kota Sibolga,Sumatera Utara,2021,60.1
+50,Kota Tanjung Balai,Sumatera Utara,2021,67.0
+51,Kota Pematang Siantar,Sumatera Utara,2021,66.4
+52,Kota Tebing Tinggi,Sumatera Utara,2021,70.4
+53,Kota Medan,Sumatera Utara,2021,69.8
+54,Kota Binjai,Sumatera Utara,2021,58.0
+55,Kota Padang Sidimpuan,Sumatera Utara,2021,66.8
+56,Kota Gunungsitoli,Sumatera Utara,2021,56.9
+57,Kabupaten Kepulauan Mentawai,Sumatera Barat,2021,54.6
+58,Kabupaten Pesisir Selatan,Sumatera Barat,2021,54.4
+59,Kabupaten Solok,Sumatera Barat,2021,55.5
+60,Kabupaten Sijunjung,Sumatera Barat,2021,56.0
+61,Kabupaten Tanah Datar,Sumatera Barat,2021,58.4
+62,Kabupaten Padang Pariaman,Sumatera Barat,2021,57.4
+63,Kabupaten Agam,Sumatera Barat,2021,57.0
+64,Kabupaten Limapuluh Koto,Sumatera Barat,2021,58.1
+65,Kabupaten Pasaman,Sumatera Barat,2021,61.4
+66,Kabupaten Solok Selatan,Sumatera Barat,2021,59.5
+67,Kabupaten Dharmas Raya,Sumatera Barat,2021,58.1
+68,Kabupaten Pasaman Barat,Sumatera Barat,2021,58.8
+69,Kabupaten Kota Padang,Sumatera Barat,2021,61.6
+70,Kabupaten Kota Solok,Sumatera Barat,2021,57.3
+71,Kota Sawah Lunto,Sumatera Barat,2021,60.3
+72,Kota Padang Panjang,Sumatera Barat,2021,54.6
+73,Kota Bukittinggi,Sumatera Barat,2021,66.0
+74,Kota Payakumbuh,Sumatera Barat,2021,57.8
+75,Kota Pariaman,Sumatera Barat,2021,60.9
+76,Kabupaten Kuantan Sengingi,Riau,2021,57.4
+77,Kabupaten Indragiri Hulu,Riau,2021,53.9
+78,Kabupaten Indragiri Hilir,Riau,2021,56.4
+79,Kabupaten Pelalawan,Riau,2021,59.6
+80,Kabupaten Siak,Riau,2021,60.8
+81,Kabupaten Kampar,Riau,2021,56.0
+82,Kabupaten Rokan Hulu,Riau,2021,58.1
+83,Kabupaten Bengkalis,Riau,2021,57.5
+84,Kabupaten Rokan Hilir,Riau,2021,61.9
+85,Kabupaten Kepulauan Meranti,Riau,2021,56.3
+86,Kota Pekanbaru,Riau,2021,58.4
+87,Kota Dumai,Riau,2021,59.7
+88,Kabupaten Kerinci,Jambi,2021,57.3
+89,Kabupaten Merangin,Jambi,2021,60.2
+90,Kabupaten Sarolangun,Jambi,2021,56.6
+91,Kabupaten Batang Hari,Jambi,2021,66.0
+92,Kabupaten Muaro Jambi,Jambi,2021,62.5
+93,Kabupaten Tanjung Jabung Timur,Jambi,2021,57.8
+94,Kabupaten Tanjung Jabung Barat,Jambi,2021,59.6
+95,Kabupaten Tebo,Jambi,2021,64.1
+96,Kabupaten Bungo,Jambi,2021,58.2
+97,Kota Jambi,Jambi,2021,61.8
+98,Kota Sungai Penuh,Jambi,2021,57.4
+99,Kabupaten Ogan Komering Ulu,Sumatera Selatan,2021,58.5
+100,Kabupaten Ogan Komering Ilir,Sumatera Selatan,2021,67.1
+101,Kabupaten Muara Enim,Sumatera Selatan,2021,58.8
+102,Kabupaten Lahat,Sumatera Selatan,2021,63.6
+103,Kabupaten Musi Rawas,Sumatera Selatan,2021,59.5
+104,Kabupaten Musi Banyuasin,Sumatera Selatan,2021,62.4
+105,Kabupaten Banyuasin,Sumatera Selatan,2021,73.0
+106,Kabupaten Ogan Komering Ulu Selatan,Sumatera Selatan,2021,54.2
+107,Kabupaten Ogan Komering Ulu Timur,Sumatera Selatan,2021,68.7
+108,Kabupaten Ogan Ilir,Sumatera Selatan,2021,60.2
+109,Kabupaten Empat Lawang,Sumatera Selatan,2021,55.3
+110,Kabupaten Penukal Abab Lematang Ilir,Sumatera Selatan,2021,56.8
+111,Kabupaten Musi Rawas Utara,Sumatera Selatan,2021,61.7
+112,Kota Palembang,Sumatera Selatan,2021,65.3
+113,Kota Prabumulih,Sumatera Selatan,2021,53.3
+114,Kota Pagar Alam,Sumatera Selatan,2021,64.8
+115,Kota Lubuklinggau,Sumatera Selatan,2021,69.1
+116,Kabupaten Bengkulu Selatan,Bengkulu,2021,59.6
+117,Kabupaten Rejang Lebong,Bengkulu,2021,59.7
+118,Kabupaten Bengkulu Utara,Bengkulu,2021,60.6
+119,Kabupaten Kaur,Bengkulu,2021,62.6
+120,Kabupaten Seluma,Bengkulu,2021,54.4
+121,Kabupaten Mukomuko,Bengkulu,2021,59.1
+122,Kabupaten Lebong,Bengkulu,2021,62.8
+123,Kabupaten Kepahiang,Bengkulu,2021,56.4
+124,Kabupaten Bengkulu Tengah,Bengkulu,2021,66.9
+125,Kota Bengkulu,Bengkulu,2021,57.7
+126,Kabupaten Lampung Barat,Lampung,2021,58.3
+127,Kabupaten Tanggamus,Lampung,2021,55.5
+128,Kabupaten Lampung Selatan,Lampung,2021,61.4
+129,Kabupaten Lampung Timur,Lampung,2021,57.0
+130,Kabupaten Lampung Tengah,Lampung,2021,59.6
+131,Kabupaten Lampung Utara,Lampung,2021,50.4
+132,Kabupaten Way Kanan,Lampung,2021,57.4
+133,Kabupaten Tulang Bawang,Lampung,2021,52.5
+134,Kabupaten Pesawaran,Lampung,2021,60.2
+135,Kabupaten Pringsewu,Lampung,2021,57.2
+136,Kabupaten Mesuji,Lampung,2021,55.3
+137,Kabupaten Tulang Bawang Barat,Lampung,2021,48.2
+138,Kabupaten Pesisir Barat,Lampung,2021,55.3
+139,Kota Bandar Lampung,Lampung,2021,62.1
+140,Kota Metro,Lampung,2021,61.7
+141,Kabupaten Bangka,Kep. Bangka Belitung,2021,66.5
+142,Kabupaten Belitung,Kep. Bangka Belitung,2021,64.1
+143,Kabupaten Bangka Barat,Kep. Bangka Belitung,2021,65.0
+144,Kabupaten Bangka Tengah,Kep. Bangka Belitung,2021,63.7
+145,Kabupaten Bangka Selatan,Kep. Bangka Belitung,2021,62.0
+146,Kabupaten Belitung Timur,Kep. Bangka Belitung,2021,67.4
+147,Kota Pangkal Pinang,Kep. Bangka Belitung,2021,64.0
+148,Kabupaten Karimun,Kep. Riau,2021,63.1
+149,Kabupaten Bintan,Kep. Riau,2021,62.1
+150,Kabupaten Natuna,Kep. Riau,2021,60.9
+151,Kabupaten Lingga,Kep. Riau,2021,63.3
+152,Kabupaten Kepulauan Anambas,Kep. Riau,2021,52.7
+153,Kota Batam,Kep. Riau,2021,73.9
+154,Kota Tanjung Pinang,Kep. Riau,2021,67.8
+155,Kep. Seribu,DKI Jakarta,2021,63.7
+156,Kota Jakarta Selatan,DKI Jakarta,2021,66.4
+157,Kota Jakarta Timur,DKI Jakarta,2021,69.6
+158,Kota Jakarta Pusat,DKI Jakarta,2021,71.5
+159,Kota Jakarta Barat,DKI Jakarta,2021,70.8
+160,Kota Jakarta Utara,DKI Jakarta,2021,75.7
+161,Kabupaten Bogor,Jawa Barat,2021,59.5
+162,Kabupaten Sukabumi,Jawa Barat,2021,66.9
+163,Kabupaten Cianjur,Jawa Barat,2021,64.5
+164,Kabupaten Bandung,Jawa Barat,2021,61.6
+165,Kabupaten Garut,Jawa Barat,2021,52.9
+166,Kabupaten Tasikmalaya,Jawa Barat,2021,59.5
+167,Kabupaten Ciamis,Jawa Barat,2021,67.5
+168,Kabupaten Kuningan,Jawa Barat,2021,66.0
+169,Kabupaten Cirebon,Jawa Barat,2021,75.2
+170,Kabupaten Majalengka,Jawa Barat,2021,69.2
+171,Kabupaten Sumedang,Jawa Barat,2021,65.5
+172,Kabupaten Indramayu,Jawa Barat,2021,79.6
+173,Kabupaten Subang,Jawa Barat,2021,69.0
+174,Kabupaten Purwakarta,Jawa Barat,2021,66.3
+175,Kabupaten Karawang,Jawa Barat,2021,67.8
+176,Kabupaten Bekasi,Jawa Barat,2021,64.5
+177,Kabupaten Bandung Barat,Jawa Barat,2021,57.3
+178,Kabupaten Pangandaran,Jawa Barat,2021,68.4
+179,Kota Bogor,Jawa Barat,2021,61.0
+180,Kota Sukabumi,Jawa Barat,2021,63.9
+181,Kota Bandung,Jawa Barat,2021,66.6
+182,Kota Cirebon,Jawa Barat,2021,63.6
+183,Kota Bekasi,Jawa Barat,2021,68.9
+184,Kota Depok,Jawa Barat,2021,64.7
+185,Kota Cimahi,Jawa Barat,2021,60.7
+186,Kota Tasikmalaya,Jawa Barat,2021,70.1
+187,Kota Banjar,Jawa Barat,2021,68.5
+188,Kabupaten Cilacap,Jawa Tengah,2021,52.9
+189,Kabupaten Banyumas,Jawa Tengah,2021,63.1
+190,Kabupaten  Purbalingga,Jawa Tengah,2021,51.3
+191,Kabupaten Banjarnegara,Jawa Tengah,2021,63.6
+192,Kabupaten Kebumen,Jawa Tengah,2021,55.4
+193,Kabupaten Purworejo,Jawa Tengah,2021,57.9
+194,Kabupaten Wonosobo,Jawa Tengah,2021,57.0
+195,Kabupaten Magelang,Jawa Tengah,2021,55.3
+196,Kabupaten Boyolali,Jawa Tengah,2021,54.1
+197,Kabupaten Klaten,Jawa Tengah,2021,56.4
+198,Kabupaten Sukoharjo,Jawa Tengah,2021,56.2
+199,Kabupaten Wonogiri,Jawa Tengah,2021,56.1
+200,Kabupaten Karanganyar,Jawa Tengah,2021,55.1
+201,Kabupaten Sragen,Jawa Tengah,2021,59.1
+202,Kabupaten Grobogan,Jawa Tengah,2021,58.1
+203,Kabupaten Blora,Jawa Tengah,2021,60.1
+204,Kabupaten Rembang,Jawa Tengah,2021,64.1
+205,Kabupaten Pati,Jawa Tengah,2021,64.3
+206,Kabupaten Kudus,Jawa Tengah,2021,60.3
+207,Kabupaten Jepara,Jawa Tengah,2021,58.0
+208,Kabupaten Demak,Jawa Tengah,2021,65.6
+209,Kabupaten Semarang,Jawa Tengah,2021,57.0
+210,Kabupaten Temanggung,Jawa Tengah,2021,51.1
+211,Kabupaten Kendal,Jawa Tengah,2021,65.1
+212,Kabupaten Batang ,Jawa Tengah,2021,68.4
+213,Kabupaten Pekalongan,Jawa Tengah,2021,66.4
+214,Kabupaten Pemalang,Jawa Tengah,2021,72.4
+215,Kabupaten Tegal,Jawa Tengah,2021,66.7
+216,Kabupaten Brebes,Jawa Tengah,2021,62.9
+217,Kota Magelang,Jawa Tengah,2021,55.3
+218,Kota Surakarta,Jawa Tengah,2021,63.4
+219,Kota Salatiga,Jawa Tengah,2021,64.9
+220,Kota Semarang,Jawa Tengah,2021,62.5
+221,Kota Pekalongan,Jawa Tengah,2021,62.4
+222,Kota Tegal,Jawa Tengah,2021,69.2
+223,Kabupaten Kulon Progo,DI Yogyakarta,2021,56.4
+224,Kabupaten Bantul,DI Yogyakarta,2021,63.1
+225,Kabupaten Gunung Kidul,DI Yogyakarta,2021,61.3
+226,Kabupaten Sleman,DI Yogyakarta,2021,73.0
+227,Kabupaten Yogyakarta,DI Yogyakarta,2021,64.1
+228,Kabupaten Pacitan,Jawa Timur,2021,53.8
+229,Kabupaten Ponorogo,Jawa Timur,2021,56.1
+230,Kabupaten Trenggalek,Jawa Timur,2021,57.2
+231,Kabupaten Tulungagung,Jawa Timur,2021,58.5
+232,Kabupaten Blitar,Jawa Timur,2021,55.0
+233,Kabupaten Kediri,Jawa Timur,2021,58.5
+234,Kabupaten Malang,Jawa Timur,2021,55.2
+235,Kabupaten Lumajang,Jawa Timur,2021,66.1
+236,Kabupaten Jember,Jawa Timur,2021,63.5
+237,Kabupaten Banyuwangi,Jawa Timur,2021,60.7
+238,Kabupaten Bondowoso,Jawa Timur,2021,61.0
+239,Kabupaten Situbondo,Jawa Timur,2021,71.9
+240,Kabupaten Probolinggo,Jawa Timur,2021,59.7
+241,Kabupaten Pasuruan,Jawa Timur,2021,64.2
+242,Kabupaten Sidoarjo,Jawa Timur,2021,60.8
+243,Kabupaten Mojokerto,Jawa Timur,2021,62.4
+244,Kabupaten Jombang,Jawa Timur,2021,63.2
+245,Kabupaten Nganjuk,Jawa Timur,2021,60.4
+246,Kabupaten Madiun,Jawa Timur,2021,58.7
+247,Kabupaten Magetan,Jawa Timur,2021,56.4
+248,Kabupaten Ngawi,Jawa Timur,2021,58.7
+249,Kabupaten Bojonegoro,Jawa Timur,2021,57.1
+250,Kabupaten Tuban,Jawa Timur,2021,63.9
+251,Kabupaten Lamongan,Jawa Timur,2021,64.2
+252,Kabupaten Gresik,Jawa Timur,2021,64.4
+253,Kabupaten Bangkalan,Jawa Timur,2021,54.2
+254,Kabupaten Sampang,Jawa Timur,2021,59.4
+255,Kabupaten Pamekasan,Jawa Timur,2021,52.9
+256,Kabupaten Sumenep,Jawa Timur,2021,78.0
+257,Kota Kediri,Jawa Timur,2021,63.9
+258,Kota Blitar,Jawa Timur,2021,60.6
+259,Kota Malang,Jawa Timur,2021,57.7
+260,Kota Probolinggo,Jawa Timur,2021,63.0
+261,Kota Pasuruan,Jawa Timur,2021,61.5
+262,Kota Mojokerto,Jawa Timur,2021,61.3
+263,Kota Madiun,Jawa Timur,2021,63.1
+264,Kota Surabaya,Jawa Timur,2021,64.1
+265,Kota Batu,Jawa Timur,2021,56.2
+266,Kabupaten Pandeglang,Banten,2021,59.7
+267,Kabupaten Lebak,Banten,2021,70.6
+268,Kabupaten Tangerang,Banten,2021,77.1
+269,Kabupaten Serang,Banten,2021,59.6
+270,Kota Tangerang,Banten,2021,70.7
+271,Kota Cilegon,Banten,2021,65.7
+272,Kota Serang,Banten,2021,66.3
+273,Kota Tangerang Selatan,Banten,2021,65.9
+274,Kabupaten Jembrana,Bali,2021,68.9
+275,Kabupaten Tabanan,Bali,2021,62.6
+276,Kabupaten Badung,Bali,2021,63.2
+277,Kabupaten Gianyar,Bali,2021,64.6
+278,Kabupaten Klungkung,Bali,2021,61.1
+279,Kabupaten Bangli,Bali,2021,61.6
+280,Kabupaten Karangasem,Bali,2021,59.6
+281,Kabupaten Buleleng,Bali,2021,61.9
+282,Kabupaten Kota Denpasar,Bali,2021,63.0
+283,Kabupaten Lombok Barat,Nusa Tenggara Barat,2021,70.6
+284,Kabupaten Lombok Tengah,Nusa Tenggara Barat,2021,78.0
+285,Kabupaten Lombok Timur,Nusa Tenggara Barat,2021,88.8
+286,Kabupaten Sumbawa,Nusa Tenggara Barat,2021,67.7
+287,Kabupaten Dompu,Nusa Tenggara Barat,2021,71.6
+288,Kabupaten Bima,Nusa Tenggara Barat,2021,65.8
+289,Kabupaten Sumbawa Barat,Nusa Tenggara Barat,2021,81.7
+290,Kabupaten Lombok Utara,Nusa Tenggara Barat,2021,75.5
+291,Kota Mataram,Nusa Tenggara Barat,2021,84.3
+292,Kota Bima,Nusa Tenggara Barat,2021,71.6
+293,Kabupaten Sumba Barat,Nusa Tenggara Timur,2021,52.7
+294,Kabupaten Sumba Timur,Nusa Tenggara Timur,2021,57.4
+295,Kabupaten Kupang,Nusa Tenggara Timur,2021,52.3
+296,Kabupaten Timor Tengah Selatan,Nusa Tenggara Timur,2021,56.0
+297,Kabupaten Timor Tengah Utara,Nusa Tenggara Timur,2021,57.4
+298,Kabupaten Belu,Nusa Tenggara Timur,2021,56.8
+299,Kabupaten Alor,Nusa Tenggara Timur,2021,56.2
+300,Kabupaten Lembata,Nusa Tenggara Timur,2021,52.9
+301,Kabupaten Flores Timur,Nusa Tenggara Timur,2021,53.8
+302,Kabupaten Sikka,Nusa Tenggara Timur,2021,50.5
+303,Kabupaten Ende,Nusa Tenggara Timur,2021,62.6
+304,Kabupaten Ngada,Nusa Tenggara Timur,2021,64.6
+305,Kabupaten Manggarai,Nusa Tenggara Timur,2021,67.3
+306,Kabupaten Rote Ndao,Nusa Tenggara Timur,2021,53.0
+307,Kabupaten Manggarai Barat,Nusa Tenggara Timur,2021,62.1
+308,Kabupaten Sumba Tengah,Nusa Tenggara Timur,2021,53.0
+309,Kabupaten Sumba Barat Daya,Nusa Tenggara Timur,2021,57.3
+310,Kabupaten Nagekeo,Nusa Tenggara Timur,2021,59.6
+311,Kabupaten Manggarai Timur,Nusa Tenggara Timur,2021,61.7
+312,Kabupaten Sabu Raijua,Nusa Tenggara Timur,2021,62.3
+313,Kabupaten Malaka,Nusa Tenggara Timur,2021,52.6
+314,Kota Kupang,Nusa Tenggara Timur,2021,66.2
+315,Kabupaten Sambas,Kalimantan Barat,2021,58.9
+316,Kabupaten Bengkayang,Kalimantan Barat,2021,56.4
+317,Kabupaten Landak,Kalimantan Barat,2021,57.0
+318,Kabupaten Mempawah,Kalimantan Barat,2021,54.6
+319,Kabupaten Sanggau,Kalimantan Barat,2021,56.9
+320,Kabupaten Ketapang,Kalimantan Barat,2021,59.5
+321,Kabupaten Sintang,Kalimantan Barat,2021,52.3
+322,Kabupaten Kapuas Hulu,Kalimantan Barat,2021,52.2
+323,Kabupaten Sekadau,Kalimantan Barat,2021,54.9
+324,Kabupaten Melawi,Kalimantan Barat,2021,54.7
+325,Kabupaten Kayong Utara,Kalimantan Barat,2021,63.5
+326,Kabupaten Kubu Raya,Kalimantan Barat,2021,53.7
+327,Kota Pontianak,Kalimantan Barat,2021,61.0
+328,Kota Singkawang,Kalimantan Barat,2021,65.4
+329,Kabupaten Kotawaringin Barat,Kalimantan Tengah,2021,72.3
+330,Kabupaten Kotawaringin Timur,Kalimantan Tengah,2021,65.2
+331,Kabupaten Kapuas,Kalimantan Tengah,2021,79.7
+332,Kabupaten Barito Selatan,Kalimantan Tengah,2021,64.5
+333,Kabupaten Barito Utara,Kalimantan Tengah,2021,57.4
+334,Kabupaten Sukamara,Kalimantan Tengah,2021,70.9
+335,Kabupaten Lamandau,Kalimantan Tengah,2021,70.9
+336,Kabupaten Seruyan,Kalimantan Tengah,2021,66.2
+337,Kabupaten Katingan,Kalimantan Tengah,2021,61.5
+338,Kabupaten Pulang Pisau,Kalimantan Tengah,2021,65.9
+339,Kabupaten Gunung Mas,Kalimantan Tengah,2021,60.7
+340,Kabupaten Barito Timur,Kalimantan Tengah,2021,64.9
+341,Kabupaten Murung Raya,Kalimantan Tengah,2021,52.0
+342,Kota Palangka Raya,Kalimantan Tengah,2021,64.5
+343,Kabupaten Tanah Laut,Kalimantan Selatan,2021,64.6
+344,Kabupaten Kota Baru,Kalimantan Selatan,2021,66.7
+345,Kabupaten Banjar,Kalimantan Selatan,2021,75.2
+346,Kabupaten Barito Kuala,Kalimantan Selatan,2021,68.3
+347,Kabupaten Tapin,Kalimantan Selatan,2021,74.2
+348,Hulu Sungai Selatan,Kalimantan Selatan,2021,72.8
+349,Hulu Sungai Tengah,Kalimantan Selatan,2021,70.4
+350,Hulu Sungai Utara,Kalimantan Selatan,2021,64.4
+351,Kabupaten Tabalong,Kalimantan Selatan,2021,66.1
+352,Kabupaten Tanah Bumbu,Kalimantan Selatan,2021,66.5
+353,Kabupaten Balangan,Kalimantan Selatan,2021,71.8
+354,Kabupaten Kota Banjarmasin,Kalimantan Selatan,2021,70.1
+355,Kota Banjar Baru,Kalimantan Selatan,2021,68.3
+356,Kabupaten Paser,Kalimantan Timur,2021,64.3
+357,Kabupaten Kutai Barat,Kalimantan Timur,2021,58.4
+358,Kabupaten Kutai Kertanegara,Kalimantan Timur,2021,56.8
+359,Kabupaten Kutai Timur,Kalimantan Timur,2021,64.0
+360,Kabupaten Berau,Kalimantan Timur,2021,64.4
+361,Kabupaten Penajam Paser Utara,Kalimantan Timur,2021,63.1
+362,Kabupaten Mahakam Ulu,Kalimantan Timur,2021,57.3
+363,Kabupaten Kota Balikpapan,Kalimantan Timur,2021,65.6
+364,Kota Samarinda,Kalimantan Timur,2021,57.7
+365,Kota Bontang,Kalimantan Timur,2021,68.9
+366,Kabupaten Malinau,Kalimantan Utara,2021,55.3
+367,Kabupaten Bulungan,Kalimantan Utara,2021,64.8
+368,Kabupaten Tana Tidung,Kalimantan Utara,2021,62.1
+369,Kabupaten Nunukan,Kalimantan Utara,2021,60.8
+370,Kabupaten Kota Tarakan,Kalimantan Utara,2021,71.8
+371,Kabupaten Bolaang Mongondow,Sulawesi Utara,2021,61.4
+372,Kabupaten Minahasa,Sulawesi Utara,2021,66.7
+373,Kabupaten Kepulauan Sangihe,Sulawesi Utara,2021,56.9
+374,Kabupaten Kepulauan Talaud,Sulawesi Utara,2021,54.6
+375,Kabupaten Minahasa Selatan,Sulawesi Utara,2021,70.7
+376,Kabupaten Minahasa Utara,Sulawesi Utara,2021,68.7
+377,Kabupaten Bolaang Mongondow Utara,Sulawesi Utara,2021,60.2
+378,Kabupaten Kep. Siau Tagulandang Biaro,Sulawesi Utara,2021,46.6
+379,Kabupaten Minahasa Tenggara,Sulawesi Utara,2021,68.7
+380,Kabupaten Bolaang Mongondow Selatan,Sulawesi Utara,2021,54.6
+381,Kabupaten Bolaang Mongondow Timur,Sulawesi Utara,2021,62.3
+382,Kota Manado,Sulawesi Utara,2021,61.4
+383,Kota Bitung,Sulawesi Utara,2021,66.7
+384,Kota Tomohon,Sulawesi Utara,2021,70.5
+385,Kota Kotamobago,Sulawesi Utara,2021,61.7
+386,Kabupaten Banggai Kepulauan,Sulawesi Tengah,2021,52.9
+387,Kabupaten Banggai,Sulawesi Tengah,2021,57.1
+388,Kabupaten Morowali,Sulawesi Tengah,2021,64.4
+389,Kabupaten Poso,Sulawesi Tengah,2021,60.0
+390,Kabupaten Donggala,Sulawesi Tengah,2021,54.1
+391,Kabupaten Toli-Toli,Sulawesi Tengah,2021,49.8
+392,Kabupaten Buol,Sulawesi Tengah,2021,47.3
+393,Kabupaten Parigi Moutong,Sulawesi Tengah,2021,54.9
+394,Kabupaten Tojo Una-Una,Sulawesi Tengah,2021,48.5
+395,SKabupaten igi,Sulawesi Tengah,2021,60.2
+396,Banggai Laut,Sulawesi Tengah,2021,56.8
+397,Kabupaten Morowali Utara,Sulawesi Tengah,2021,69.1
+398,Kota Palu,Sulawesi Tengah,2021,60.4
+399,Kabupaten Selayar,Sulawesi Selatan,2021,62.8
+400,Kabupaten Bulukumba,Sulawesi Selatan,2021,60.1
+401,Kabupaten Bantaeng,Sulawesi Selatan,2021,61.9
+402,Kabupaten Jeneponto,Sulawesi Selatan,2021,65.5
+403,Kabupaten Takalar,Sulawesi Selatan,2021,61.4
+404,Kabupaten Gowa,Sulawesi Selatan,2021,62.3
+405,Kabupaten Sinjai,Sulawesi Selatan,2021,73.6
+406,Kabupaten Maros,Sulawesi Selatan,2021,56.5
+407,Kabupaten Pangkajene dan Kepulauan,Sulawesi Selatan,2021,70.6
+408,Kabupaten Barru,Sulawesi Selatan,2021,61.5
+409,Kabupaten Bone,Sulawesi Selatan,2021,58.5
+410,Kabupaten Soppeng,Sulawesi Selatan,2021,58.7
+411,Kabupaten Wajo,Sulawesi Selatan,2021,63.2
+412,Kabupaten Sidenreng Rappang,Sulawesi Selatan,2021,71.6
+413,Kabupaten Pinrang,Sulawesi Selatan,2021,56.6
+414,Kabupaten Enrekang,Sulawesi Selatan,2021,60.5
+415,Kabupaten Luwu,Sulawesi Selatan,2021,60.7
+416,Kabupaten Tana Toraja,Sulawesi Selatan,2021,59.7
+417,Kabupaten Luwu Utara,Sulawesi Selatan,2021,65.0
+418,Kabupaten Luwu Timur,Sulawesi Selatan,2021,65.8
+419,Kabupaten Toraja Utara,Sulawesi Selatan,2021,60.1
+420,Kabupaten Kota Makasar,Sulawesi Selatan,2021,67.5
+421,Kabupaten Kota Pare-Pare,Sulawesi Selatan,2021,68.8
+422,Kabupaten Kota Palopo,Sulawesi Selatan,2021,60.0
+423,Kabupaten Buton,Sulawesi Tenggara,2021,57.3
+424,Kabupaten Muna,Sulawesi Tenggara,2021,60.2
+425,Kabupaten Konawe,Sulawesi Tenggara,2021,56.6
+426,Kabupaten Kolaka,Sulawesi Tenggara,2021,66.0
+427,Kabupaten Konawe Selatan,Sulawesi Tenggara,2021,62.5
+428,Kabupaten Bombana,Sulawesi Tenggara,2021,57.8
+429,Kabupaten Wakatobi,Sulawesi Tenggara,2021,59.6
+430,Kabupaten Kolaka Utara,Sulawesi Tenggara,2021,64.1
+431,Kabupaten Buton Utara,Sulawesi Tenggara,2021,58.2
+432,Kabupaten Konawe Utara,Sulawesi Tenggara,2021,61.8
+433,Kabupaten Kolaka Timur,Sulawesi Tenggara,2021,57.4
+434,Kabupaten Konawe Kepulauan,Sulawesi Tenggara,2021,50.3
+435,Kabupaten Muna Barat,Sulawesi Tenggara,2021,60.3
+436,Kabupaten Buton Tengah,Sulawesi Tenggara,2021,60.8
+437,Kabupaten Buton Selatan,Sulawesi Tenggara,2021,55.7
+438,Kota Kendari,Sulawesi Tenggara,2021,69.1
+439,Kota Bau-Bau,Sulawesi Tenggara,2021,55.6
+440,Kabupaten Boalemo,Gorontalo,2021,57.7
+441,Kabupaten Gorontalo,Gorontalo,2021,61.5
+442,Kabupaten Pohuwato,Gorontalo,2021,56.1
+443,Kabupaten Bone Bolango,Gorontalo,2021,53.5
+444,Kabupaten Gorontalo Utara,Gorontalo,2021,55.9
+445,Kota Gorontalo,Gorontalo,2021,54.5
+446,Kabupaten Majene,Sulawesi Barat,2021,60.2
+447,Kabupaten Polewali Mandar,Sulawesi Barat,2021,59.9
+448,Kabupaten Mamasa,Sulawesi Barat,2021,64.7
+449,Kabupaten Mamuju,Sulawesi Barat,2021,51.2
+450,Kabupaten Mamuju Utara,Sulawesi Barat,2021,59.6
+451,Kabupaten Mamuju Tengah,Sulawesi Barat,2021,60.5
+452,Kabupaten Kepulauan Tanimbar,Maluku,2021,45.3
+453,Kabupaten Maluku Tenggara,Maluku,2021,49.1
+454,Kabupaten Maluku Tengah,Maluku,2021,54.9
+455,Kabupaten Buru,Maluku,2021,52.8
+456,Kabupaten Kepulauan Aru,Maluku,2021,44.4
+457,Kabupaten Seram Bagian Barat,Maluku,2021,45.7
+458,Kabupaten Seram Bagian Timur,Maluku,2021,51.4
+459,Kabupaten Maluku Barat Daya,Maluku,2021,54.2
+460,Kabupaten Buru Selatan,Maluku,2021,44.9
+461,Kota Ambon,Maluku,2021,62.7
+462,Kota Tual,Maluku,2021,49.2
+463,Kabupaten Halmahera Barat,Maluku Utara,2021,48.0
+464,Kabupaten Halmahera Tengah,Maluku Utara,2021,50.4
+465,Kabupaten Kepulauan Sula,Maluku Utara,2021,47.2
+466,Kabupaten Halmahera Selatan,Maluku Utara,2021,49.8
+467,Kabupaten Halmahera Utara,Maluku Utara,2021,51.5
+468,Kabupaten Halmahera Timur,Maluku Utara,2021,49.8
+469,Kabupaten Pulau Morotai,Maluku Utara,2021,48.4
+470,Kabupaten Pulau Taliabu,Maluku Utara,2021,47.5
+471,Kota Ternate,Maluku Utara,2021,60.3
+472,Kota Tidore Kepulauan,Maluku Utara,2021,52.6
+473,Kabupaten Fak-Fak,Papua Barat,2021,63.6
+474,Kabupaten Kaimana,Papua Barat,2021,52.3
+475,Kabupaten Teluk Wondama,Papua Barat,2021,48.5
+476,Kabupaten Teluk Bintuni,Papua Barat,2021,53.8
+477,Kabupaten Manokwari,Papua Barat,2021,53.9
+478,Kabupaten Sorong Selatan,Papua Barat,2021,43.0
+479,Kabupaten Sorong,Papua Barat,2021,57.1
+480,Kabupaten Raja Ampat,Papua Barat,2021,55.2
+481,Kabupaten Tambrauw,Papua Barat,2021,43.6
+482,Kabupaten Maybrat,Papua Barat,2021,50.9
+483,Kabupaten Manokwari Selatan,Papua Barat,2021,49.7
+484,Kabupaten Pegunungan Arfak,Papua Barat,2021,39.2
+485,Kabupaten Kota Sorong,Papua Barat,2021,60.3
+486,Kabupaten Merauke,Papua,2021,63.9
+487,Kabupaten Jayawijaya,Papua,2021,37.3
+488,Kabupaten Jayapura,Papua,2021,49.7
+489,Kabupaten Nabire,Papua,2021,64.0
+490,Kabupaten Kepulauan Yapen,Papua,2021,51.8
+491,Kabupaten Biak Namfor,Papua,2021,54.6
+492,Kabupaten Paniai,Papua,2021,38.8
+493,Kabupaten Puncak Jaya,Papua,2021,31.8
+494,Kabupaten Mimika,Papua,2021,61.0
+495,Kabupaten Boven Digoel,Papua,2021,48.2
+496,Kabupaten Mappi,Papua,2021,33.4
+497,Kabupaten Asmat,Papua,2021,50.1
+498,Kabupaten Yahukimo,Papua,2021,30.7
+499,Kabupaten Pegunungan Bintang,Papua,2021,29.5
+500,Kabupaten Tolikara,Papua,2021,37.0
+501,Kabupaten Sarmi,Papua,2021,50.1
+502,Kabupaten Keerom,Papua,2021,46.1
+503,Kabupaten Waropen,Papua,2021,52.9
+504,Kabupaten Supiori,Papua,2021,79.7
+505,Kabupaten Mamberamo Raya,Papua,2021,48.1
+506,Kabupaten Nduga,Papua,2021,43.4
+507,Kabupaten Lanny Jaya,Papua,2021,42.3
+508,Kabupaten Mamberamo Tengah,Papua,2021,31.4
+509,Kabupaten Yalimo,Papua,2021,43.8
+510,Kabupaten Puncak,Papua,2021,23.3
+511,Kabupaten Dogiyai,Papua,2021,29.5
+512,Kabupaten Intan Jaya,Papua,2021,36.0
+513,Kabupaten Deiyai,Papua,2021,38.3
+514,Kota Jayapura,Papua,2021,56.3
+515,Kabupaten Simeulue,Aceh,2022,59.3
+516,Kabupaten Aceh Singkil,Aceh,2022,60.4
+517,Kabupaten Aceh Selatan,Aceh,2022,56.2
+518,Kabupaten Aceh Tenggara,Aceh,2022,63.3
+519,Kabupaten Aceh Timur,Aceh,2022,63.7
+520,Kabupaten Aceh Tengah,Aceh,2022,61.1
+521,Kabupaten Aceh Barat,Aceh,2022,68.8
+522,Kabupaten Aceh Besar,Aceh,2022,55.7
+523,Kabupaten Pidie,Aceh,2022,60.6
+524,Kabupaten Bireuen,Aceh,2022,64.6
+525,Kabupaten Aceh Utara,Aceh,2022,55.7
+526,Kabupaten Aceh Barat Daya,Aceh,2022,55.7
+527,Kabupaten Gayo Lues,Aceh,2022,70.4
+528,Kabupaten Aceh Tamiang,Aceh,2022,56.6
+529,Kabupaten Nagan Raya,Aceh,2022,74.5
+530,Kabupaten Aceh Jaya,Aceh,2022,64.6
+531,Kabupaten Bener Meriah,Aceh,2022,69.3
+532,Kabupaten Pidie Jaya,Aceh,2022,69.9
+533,Kota Banda Aceh,Aceh,2022,60.7
+534,Kota Sabang,Aceh,2022,66.1
+535,Kota Langsa,Aceh,2022,62.3
+536,Kota Lhokseumawe,Aceh,2022,54.1
+537,Kota Subulussalam,Aceh,2022,63.0
+538,Kabupaten Nias,Sumatera Utara,2022,54.9
+539,Kabupaten Mandailing Natal,Sumatera Utara,2022,63.7
+540,Kabupaten Tapanuli Selatan,Sumatera Utara,2022,62.0
+541,Kabupaten Tapanuli Tengah,Sumatera Utara,2022,59.4
+542,Kabupaten Tapanuli Utara,Sumatera Utara,2022,68.2
+543,Kabupaten Toba Samosir,Sumatera Utara,2022,69.1
+544,Kabupaten Labuhan Batu,Sumatera Utara,2022,58.7
+545,Kabupaten Asahan,Sumatera Utara,2022,63.1
+546,Kabupaten Simalungun,Sumatera Utara,2022,61.4
+547,Kabupaten Dairi,Sumatera Utara,2022,61.9
+548,Kabupaten Karo,Sumatera Utara,2022,70.4
+549,Kabupaten Deli Serdang,Sumatera Utara,2022,69.2
+550,Kabupaten Langkat,Sumatera Utara,2022,62.4
+551,Kabupaten Nias Selatan,Sumatera Utara,2022,58.0
+552,Kabupaten Humbang Hasundutan,Sumatera Utara,2022,67.5
+553,Kabupaten Pakpak Bharat,Sumatera Utara,2022,66.8
+554,Kabupaten Samosir,Sumatera Utara,2022,61.8
+555,Kabupaten Serdang Bedagai,Sumatera Utara,2022,67.4
+556,Kabupaten Batu Bara,Sumatera Utara,2022,57.1
+557,Kabupaten Padang Lawas Utara,Sumatera Utara,2022,60.4
+558,Kabupaten Padang Lawas,Sumatera Utara,2022,61.7
+559,Kabupaten Labuhan Batu Selatan,Sumatera Utara,2022,66.3
+560,Kabupaten Labuhan Batu Utara,Sumatera Utara,2022,62.4
+561,Kabupaten Nias Utara,Sumatera Utara,2022,58.1
+562,Kabupaten Nias Barat,Sumatera Utara,2022,55.3
+563,Kota Sibolga,Sumatera Utara,2022,59.7
+564,Kota Tanjung Balai,Sumatera Utara,2022,69.7
+565,Kota Pematang Siantar,Sumatera Utara,2022,62.9
+566,Kota Tebing Tinggi,Sumatera Utara,2022,67.4
+567,Kota Medan,Sumatera Utara,2022,68.8
+568,Kota Binjai,Sumatera Utara,2022,59.2
+569,Kota Padang Sidimpuan,Sumatera Utara,2022,64.6
+570,Kota Gunungsitoli,Sumatera Utara,2022,53.8
+571,Kabupaten Kepulauan Mentawai,Sumatera Barat,2022,51.5
+572,Kabupaten Pesisir Selatan,Sumatera Barat,2022,55.0
+573,Kabupaten Solok,Sumatera Barat,2022,61.1
+574,Kabupaten Sijunjung,Sumatera Barat,2022,54.7
+575,Kabupaten Tanah Datar,Sumatera Barat,2022,60.3
+576,Kabupaten Padang Pariaman,Sumatera Barat,2022,56.8
+577,Kabupaten Agam,Sumatera Barat,2022,59.6
+578,Kabupaten Limapuluh Koto,Sumatera Barat,2022,62.5
+579,Kabupaten Pasaman,Sumatera Barat,2022,64.2
+580,Kabupaten Solok Selatan,Sumatera Barat,2022,60.7
+581,Kabupaten Dharmas Raya,Sumatera Barat,2022,53.9
+582,Kabupaten Pasaman Barat,Sumatera Barat,2022,67.1
+583,Kabupaten Kota Padang,Sumatera Barat,2022,58.6
+584,Kabupaten Kota Solok,Sumatera Barat,2022,61.2
+585,Kota Sawah Lunto,Sumatera Barat,2022,56.6
+586,Kota Padang Panjang,Sumatera Barat,2022,57.1
+587,Kota Bukittinggi,Sumatera Barat,2022,55.5
+588,Kota Payakumbuh,Sumatera Barat,2022,59.2
+589,Kota Pariaman,Sumatera Barat,2022,56.5
+590,Kabupaten Kuantan Sengingi,Riau,2022,58.1
+591,Kabupaten Indragiri Hulu,Riau,2022,53.4
+592,Kabupaten Indragiri Hilir,Riau,2022,53.1
+593,Kabupaten Pelalawan,Riau,2022,62.9
+594,Kabupaten Siak,Riau,2022,62.5
+595,Kabupaten Kampar,Riau,2022,59.6
+596,Kabupaten Rokan Hulu,Riau,2022,60.1
+597,Kabupaten Bengkalis,Riau,2022,59.6
+598,Kabupaten Rokan Hilir,Riau,2022,63.2
+599,Kabupaten Kepulauan Meranti,Riau,2022,56.3
+600,Kota Pekanbaru,Riau,2022,60.6
+601,Kota Dumai,Riau,2022,65.5
+602,Kabupaten Kerinci,Jambi,2022,63.4
+603,Kabupaten Merangin,Jambi,2022,58.6
+604,Kabupaten Sarolangun,Jambi,2022,59.7
+605,Kabupaten Batang Hari,Jambi,2022,51.5
+606,Kabupaten Muaro Jambi,Jambi,2022,56.3
+607,Kabupaten Tanjung Jabung Timur,Jambi,2022,60.7
+608,Kabupaten Tanjung Jabung Barat,Jambi,2022,65.4
+609,Kabupaten Tebo,Jambi,2022,64.0
+610,Kabupaten Bungo,Jambi,2022,60.0
+611,Kota Jambi,Jambi,2022,63.1
+612,Kota Sungai Penuh,Jambi,2022,62.1
+613,Kabupaten Ogan Komering Ulu,Sumatera Selatan,2022,60.4
+614,Kabupaten Ogan Komering Ilir,Sumatera Selatan,2022,65.7
+615,Kabupaten Muara Enim,Sumatera Selatan,2022,60.1
+616,Kabupaten Lahat,Sumatera Selatan,2022,66.0
+617,Kabupaten Musi Rawas,Sumatera Selatan,2022,62.0
+618,Kabupaten Musi Banyuasin,Sumatera Selatan,2022,61.4
+619,Kabupaten Banyuasin,Sumatera Selatan,2022,75.7
+620,Kabupaten Ogan Komering Ulu Selatan,Sumatera Selatan,2022,52.3
+621,Kabupaten Ogan Komering Ulu Timur,Sumatera Selatan,2022,66.0
+622,Kabupaten Ogan Ilir,Sumatera Selatan,2022,60.7
+623,Kabupaten Empat Lawang,Sumatera Selatan,2022,63.7
+624,Kabupaten Penukal Abab Lematang Ilir,Sumatera Selatan,2022,61.9
+625,Kabupaten Musi Rawas Utara,Sumatera Selatan,2022,65.2
+626,Kota Palembang,Sumatera Selatan,2022,68.8
+627,Kota Prabumulih,Sumatera Selatan,2022,56.6
+628,Kota Pagar Alam,Sumatera Selatan,2022,66.4
+629,Kota Lubuklinggau,Sumatera Selatan,2022,70.6
+630,Kabupaten Bengkulu Selatan,Bengkulu,2022,65.2
+631,Kabupaten Rejang Lebong,Bengkulu,2022,56.0
+632,Kabupaten Bengkulu Utara,Bengkulu,2022,59.8
+633,Kabupaten Kaur,Bengkulu,2022,66.3
+634,Kabupaten Seluma,Bengkulu,2022,60.1
+635,Kabupaten Mukomuko,Bengkulu,2022,58.2
+636,Kabupaten Lebong,Bengkulu,2022,64.2
+637,Kabupaten Kepahiang,Bengkulu,2022,56.0
+638,Kabupaten Bengkulu Tengah,Bengkulu,2022,62.4
+639,Kota Bengkulu,Bengkulu,2022,59.8
+640,Kabupaten Lampung Barat,Lampung,2022,60.8
+641,Kabupaten Tanggamus,Lampung,2022,58.0
+642,Kabupaten Lampung Selatan,Lampung,2022,59.5
+643,Kabupaten Lampung Timur,Lampung,2022,58.6
+644,Kabupaten Lampung Tengah,Lampung,2022,57.7
+645,Kabupaten Lampung Utara,Lampung,2022,52.2
+646,Kabupaten Way Kanan,Lampung,2022,59.3
+647,Kabupaten Tulang Bawang,Lampung,2022,56.2
+648,Kabupaten Pesawaran,Lampung,2022,58.2
+649,Kabupaten Pringsewu,Lampung,2022,58.3
+650,Kabupaten Mesuji,Lampung,2022,56.7
+651,Kabupaten Tulang Bawang Barat,Lampung,2022,49.7
+652,Kabupaten Pesisir Barat,Lampung,2022,54.4
+653,Kota Bandar Lampung,Lampung,2022,59.4
+654,Kota Metro,Lampung,2022,56.5
+655,Kabupaten Bangka,Kep. Bangka Belitung,2022,69.1
+656,Kabupaten Belitung,Kep. Bangka Belitung,2022,64.8
+657,Kabupaten Bangka Barat,Kep. Bangka Belitung,2022,63.3
+658,Kabupaten Bangka Tengah,Kep. Bangka Belitung,2022,67.1
+659,Kabupaten Bangka Selatan,Kep. Bangka Belitung,2022,69.1
+660,Kabupaten Belitung Timur,Kep. Bangka Belitung,2022,69.4
+661,Kota Pangkal Pinang,Kep. Bangka Belitung,2022,69.8
+662,Kabupaten Karimun,Kep. Riau,2022,57.1
+663,Kabupaten Bintan,Kep. Riau,2022,63.4
+664,Kabupaten Natuna,Kep. Riau,2022,58.0
+665,Kabupaten Lingga,Kep. Riau,2022,59.3
+666,Kabupaten Kepulauan Anambas,Kep. Riau,2022,58.4
+667,Kota Batam,Kep. Riau,2022,67.7
+668,Kota Tanjung Pinang,Kep. Riau,2022,58.1
+669,Kep. Seribu,DKI Jakarta,2022,66.5
+670,Kota Jakarta Selatan,DKI Jakarta,2022,66.0
+671,Kota Jakarta Timur,DKI Jakarta,2022,70.5
+672,Kota Jakarta Pusat,DKI Jakarta,2022,68.7
+673,Kota Jakarta Barat,DKI Jakarta,2022,65.8
+674,Kota Jakarta Utara,DKI Jakarta,2022,70.3
+675,Kabupaten Bogor,Jawa Barat,2022,64.1
+676,Kabupaten Sukabumi,Jawa Barat,2022,68.0
+677,Kabupaten Cianjur,Jawa Barat,2022,58.7
+678,Kabupaten Bandung,Jawa Barat,2022,55.4
+679,Kabupaten Garut,Jawa Barat,2022,55.1
+680,Kabupaten Tasikmalaya,Jawa Barat,2022,65.2
+681,Kabupaten Ciamis,Jawa Barat,2022,66.9
+682,Kabupaten Kuningan,Jawa Barat,2022,60.8
+683,Kabupaten Cirebon,Jawa Barat,2022,70.4
+684,Kabupaten Majalengka,Jawa Barat,2022,60.6
+685,Kabupaten Sumedang,Jawa Barat,2022,65.1
+686,Kabupaten Indramayu,Jawa Barat,2022,77.2
+687,Kabupaten Subang,Jawa Barat,2022,64.3
+688,Kabupaten Purwakarta,Jawa Barat,2022,63.7
+689,Kabupaten Karawang,Jawa Barat,2022,64.6
+690,Kabupaten Bekasi,Jawa Barat,2022,62.0
+691,Kabupaten Bandung Barat,Jawa Barat,2022,61.8
+692,Kabupaten Pangandaran,Jawa Barat,2022,67.4
+693,Kota Bogor,Jawa Barat,2022,57.1
+694,Kota Sukabumi,Jawa Barat,2022,60.4
+695,Kota Bandung,Jawa Barat,2022,61.7
+696,Kota Cirebon,Jawa Barat,2022,66.3
+697,Kota Bekasi,Jawa Barat,2022,69.9
+698,Kota Depok,Jawa Barat,2022,62.1
+699,Kota Cimahi,Jawa Barat,2022,61.3
+700,Kota Tasikmalaya,Jawa Barat,2022,66.6
+701,Kota Banjar,Jawa Barat,2022,72.0
+702,Kabupaten Cilacap,Jawa Tengah,2022,53.5
+703,Kabupaten Banyumas,Jawa Tengah,2022,62.8
+704,Kabupaten  Purbalingga,Jawa Tengah,2022,50.9
+705,Kabupaten Banjarnegara,Jawa Tengah,2022,64.4
+706,Kabupaten Kebumen,Jawa Tengah,2022,56.4
+707,Kabupaten Purworejo,Jawa Tengah,2022,56.2
+708,Kabupaten Wonosobo,Jawa Tengah,2022,61.0
+709,Kabupaten Magelang,Jawa Tengah,2022,56.8
+710,Kabupaten Boyolali,Jawa Tengah,2022,54.8
+711,Kabupaten Klaten,Jawa Tengah,2022,54.7
+712,Kabupaten Sukoharjo,Jawa Tengah,2022,55.3
+713,Kabupaten Wonogiri,Jawa Tengah,2022,55.9
+714,Kabupaten Karanganyar,Jawa Tengah,2022,54.1
+715,Kabupaten Sragen,Jawa Tengah,2022,58.6
+716,Kabupaten Grobogan,Jawa Tengah,2022,52.6
+717,Kabupaten Blora,Jawa Tengah,2022,60.9
+718,Kabupaten Rembang,Jawa Tengah,2022,65.6
+719,Kabupaten Pati,Jawa Tengah,2022,65.7
+720,Kabupaten Kudus,Jawa Tengah,2022,58.5
+721,Kabupaten Jepara,Jawa Tengah,2022,63.6
+722,Kabupaten Demak,Jawa Tengah,2022,59.8
+723,Kabupaten Semarang,Jawa Tengah,2022,56.0
+724,Kabupaten Temanggung,Jawa Tengah,2022,51.0
+725,Kabupaten Kendal,Jawa Tengah,2022,58.2
+726,Kabupaten Batang ,Jawa Tengah,2022,63.8
+727,Kabupaten Pekalongan,Jawa Tengah,2022,65.5
+728,Kabupaten Pemalang,Jawa Tengah,2022,65.5
+729,Kabupaten Tegal,Jawa Tengah,2022,62.1
+730,Kabupaten Brebes,Jawa Tengah,2022,66.0
+731,Kota Magelang,Jawa Tengah,2022,54.3
+732,Kota Surakarta,Jawa Tengah,2022,56.7
+733,Kota Salatiga,Jawa Tengah,2022,65.8
+734,Kota Semarang,Jawa Tengah,2022,60.3
+735,Kota Pekalongan,Jawa Tengah,2022,63.5
+736,Kota Tegal,Jawa Tengah,2022,66.3
+737,Kabupaten Kulon Progo,DI Yogyakarta,2022,54.9
+738,Kabupaten Bantul,DI Yogyakarta,2022,63.1
+739,Kabupaten Gunung Kidul,DI Yogyakarta,2022,55.7
+740,Kabupaten Sleman,DI Yogyakarta,2022,70.5
+741,Kabupaten Yogyakarta,DI Yogyakarta,2022,59.0
+742,Kabupaten Pacitan,Jawa Timur,2022,54.4
+743,Kabupaten Ponorogo,Jawa Timur,2022,104.1
+744,Kabupaten Trenggalek,Jawa Timur,2022,101.0
+745,Kabupaten Tulungagung,Jawa Timur,2022,64.0
+746,Kabupaten Blitar,Jawa Timur,2022,52.3
+747,Kabupaten Kediri,Jawa Timur,2022,59.7
+748,Kabupaten Malang,Jawa Timur,2022,51.7
+749,Kabupaten Lumajang,Jawa Timur,2022,67.4
+750,Kabupaten Jember,Jawa Timur,2022,62.3
+751,Kabupaten Banyuwangi,Jawa Timur,2022,59.8
+752,Kabupaten Bondowoso,Jawa Timur,2022,56.7
+753,Kabupaten Situbondo,Jawa Timur,2022,60.7
+754,Kabupaten Probolinggo,Jawa Timur,2022,58.5
+755,Kabupaten Pasuruan,Jawa Timur,2022,66.5
+756,Kabupaten Sidoarjo,Jawa Timur,2022,56.3
+757,Kabupaten Mojokerto,Jawa Timur,2022,109.1
+758,Kabupaten Jombang,Jawa Timur,2022,102.3
+759,Kabupaten Nganjuk,Jawa Timur,2022,104.4
+760,Kabupaten Madiun,Jawa Timur,2022,58.2
+761,Kabupaten Magetan,Jawa Timur,2022,56.3
+762,Kabupaten Ngawi,Jawa Timur,2022,53.9
+763,Kabupaten Bojonegoro,Jawa Timur,2022,89.3
+764,Kabupaten Tuban,Jawa Timur,2022,108.9
+765,Kabupaten Lamongan,Jawa Timur,2022,105.9
+766,Kabupaten Gresik,Jawa Timur,2022,61.2
+767,Kabupaten Bangkalan,Jawa Timur,2022,57.5
+768,Kabupaten Sampang,Jawa Timur,2022,58.9
+769,Kabupaten Pamekasan,Jawa Timur,2022,50.6
+770,Kabupaten Sumenep,Jawa Timur,2022,88.2
+771,Kota Kediri,Jawa Timur,2022,60.0
+772,Kota Blitar,Jawa Timur,2022,56.7
+773,Kota Malang,Jawa Timur,2022,57.6
+774,Kota Probolinggo,Jawa Timur,2022,55.9
+775,Kota Pasuruan,Jawa Timur,2022,65.5
+776,Kota Mojokerto,Jawa Timur,2022,60.6
+777,Kota Madiun,Jawa Timur,2022,65.3
+778,Kota Surabaya,Jawa Timur,2022,62.9
+779,Kota Batu,Jawa Timur,2022,54.7
+780,Kabupaten Pandeglang,Banten,2022,65.2
+781,Kabupaten Lebak,Banten,2022,77.3
+782,Kabupaten Tangerang,Banten,2022,71.3
+783,Kabupaten Serang,Banten,2022,63.9
+784,Kota Tangerang,Banten,2022,73.8
+785,Kota Cilegon,Banten,2022,61.8
+786,Kota Serang,Banten,2022,64.6
+787,Kota Tangerang Selatan,Banten,2022,64.6
+788,Kabupaten Jembrana,Bali,2022,67.0
+789,Kabupaten Tabanan,Bali,2022,58.7
+790,Kabupaten Badung,Bali,2022,61.3
+791,Kabupaten Gianyar,Bali,2022,61.6
+792,Kabupaten Klungkung,Bali,2022,62.8
+793,Kabupaten Bangli,Bali,2022,62.5
+794,Kabupaten Karangasem,Bali,2022,56.7
+795,Kabupaten Buleleng,Bali,2022,61.5
+796,Kabupaten Kota Denpasar,Bali,2022,62.4
+797,Kabupaten Lombok Barat,Nusa Tenggara Barat,2022,71.1
+798,Kabupaten Lombok Tengah,Nusa Tenggara Barat,2022,74.8
+799,Kabupaten Lombok Timur,Nusa Tenggara Barat,2022,85.7
+800,Kabupaten Sumbawa,Nusa Tenggara Barat,2022,67.6
+801,Kabupaten Dompu,Nusa Tenggara Barat,2022,70.3
+802,Kabupaten Bima,Nusa Tenggara Barat,2022,59.0
+803,Kabupaten Sumbawa Barat,Nusa Tenggara Barat,2022,81.9
+804,Kabupaten Lombok Utara,Nusa Tenggara Barat,2022,77.6
+805,Kota Mataram,Nusa Tenggara Barat,2022,95.2
+806,Kota Bima,Nusa Tenggara Barat,2022,66.2
+807,Kabupaten Sumba Barat,Nusa Tenggara Timur,2022,50.0
+808,Kabupaten Sumba Timur,Nusa Tenggara Timur,2022,55.9
+809,Kabupaten Kupang,Nusa Tenggara Timur,2022,51.9
+810,Kabupaten Timor Tengah Selatan,Nusa Tenggara Timur,2022,55.2
+811,Kabupaten Timor Tengah Utara,Nusa Tenggara Timur,2022,57.1
+812,Kabupaten Belu,Nusa Tenggara Timur,2022,55.1
+813,Kabupaten Alor,Nusa Tenggara Timur,2022,57.2
+814,Kabupaten Lembata,Nusa Tenggara Timur,2022,52.2
+815,Kabupaten Flores Timur,Nusa Tenggara Timur,2022,57.3
+816,Kabupaten Sikka,Nusa Tenggara Timur,2022,48.9
+817,Kabupaten Ende,Nusa Tenggara Timur,2022,60.8
+818,Kabupaten Ngada,Nusa Tenggara Timur,2022,61.7
+819,Kabupaten Manggarai,Nusa Tenggara Timur,2022,64.7
+820,Kabupaten Rote Ndao,Nusa Tenggara Timur,2022,45.2
+821,Kabupaten Manggarai Barat,Nusa Tenggara Timur,2022,59.3
+822,Kabupaten Sumba Tengah,Nusa Tenggara Timur,2022,50.1
+823,Kabupaten Sumba Barat Daya,Nusa Tenggara Timur,2022,58.7
+824,Kabupaten Nagekeo,Nusa Tenggara Timur,2022,53.3
+825,Kabupaten Manggarai Timur,Nusa Tenggara Timur,2022,60.4
+826,Kabupaten Sabu Raijua,Nusa Tenggara Timur,2022,60.8
+827,Kabupaten Malaka,Nusa Tenggara Timur,2022,60.7
+828,Kota Kupang,Nusa Tenggara Timur,2022,56.0
+829,Kabupaten Sambas,Kalimantan Barat,2022,62.3
+830,Kabupaten Bengkayang,Kalimantan Barat,2022,60.1
+831,Kabupaten Landak,Kalimantan Barat,2022,63.1
+832,Kabupaten Mempawah,Kalimantan Barat,2022,55.1
+833,Kabupaten Sanggau,Kalimantan Barat,2022,55.4
+834,Kabupaten Ketapang,Kalimantan Barat,2022,54.7
+835,Kabupaten Sintang,Kalimantan Barat,2022,56.4
+836,Kabupaten Kapuas Hulu,Kalimantan Barat,2022,56.0
+837,Kabupaten Sekadau,Kalimantan Barat,2022,60.7
+838,Kabupaten Melawi,Kalimantan Barat,2022,58.2
+839,Kabupaten Kayong Utara,Kalimantan Barat,2022,61.1
+840,Kabupaten Kubu Raya,Kalimantan Barat,2022,53.0
+841,Kota Pontianak,Kalimantan Barat,2022,61.1
+842,Kota Singkawang,Kalimantan Barat,2022,62.7
+843,Kabupaten Kotawaringin Barat,Kalimantan Tengah,2022,69.7
+844,Kabupaten Kotawaringin Timur,Kalimantan Tengah,2022,62.8
+845,Kabupaten Kapuas,Kalimantan Tengah,2022,67.2
+846,Kabupaten Barito Selatan,Kalimantan Tengah,2022,66.7
+847,Kabupaten Barito Utara,Kalimantan Tengah,2022,54.6
+848,Kabupaten Sukamara,Kalimantan Tengah,2022,75.1
+849,Kabupaten Lamandau,Kalimantan Tengah,2022,71.3
+850,Kabupaten Seruyan,Kalimantan Tengah,2022,63.7
+851,Kabupaten Katingan,Kalimantan Tengah,2022,67.5
+852,Kabupaten Pulang Pisau,Kalimantan Tengah,2022,62.7
+853,Kabupaten Gunung Mas,Kalimantan Tengah,2022,58.3
+854,Kabupaten Barito Timur,Kalimantan Tengah,2022,67.7
+855,Kabupaten Murung Raya,Kalimantan Tengah,2022,66.5
+856,Kota Palangka Raya,Kalimantan Tengah,2022,54.9
+857,Kabupaten Tanah Laut,Kalimantan Selatan,2022,70.8
+858,Kabupaten Kota Baru,Kalimantan Selatan,2022,69.7
+859,Kabupaten Banjar,Kalimantan Selatan,2022,68.0
+860,Kabupaten Barito Kuala,Kalimantan Selatan,2022,63.3
+861,Kabupaten Tapin,Kalimantan Selatan,2022,67.4
+862,Hulu Sungai Selatan,Kalimantan Selatan,2022,71.4
+863,Hulu Sungai Tengah,Kalimantan Selatan,2022,62.4
+864,Hulu Sungai Utara,Kalimantan Selatan,2022,66.4
+865,Kabupaten Tabalong,Kalimantan Selatan,2022,75.8
+866,Kabupaten Tanah Bumbu,Kalimantan Selatan,2022,66.6
+867,Kabupaten Balangan,Kalimantan Selatan,2022,70.7
+868,Kabupaten Kota Banjarmasin,Kalimantan Selatan,2022,66.7
+869,Kota Banjar Baru,Kalimantan Selatan,2022,69.1
+870,Kabupaten Paser,Kalimantan Timur,2022,64.5
+871,Kabupaten Kutai Barat,Kalimantan Timur,2022,59.0
+872,Kabupaten Kutai Kertanegara,Kalimantan Timur,2022,60.6
+873,Kabupaten Kutai Timur,Kalimantan Timur,2022,62.1
+874,Kabupaten Berau,Kalimantan Timur,2022,68.4
+875,Kabupaten Penajam Paser Utara,Kalimantan Timur,2022,57.6
+876,Kabupaten Mahakam Ulu,Kalimantan Timur,2022,56.2
+877,Kabupaten Kota Balikpapan,Kalimantan Timur,2022,63.0
+878,Kota Samarinda,Kalimantan Timur,2022,65.0
+879,Kota Bontang,Kalimantan Timur,2022,65.7
+880,Kabupaten Malinau,Kalimantan Utara,2022,58.7
+881,Kabupaten Bulungan,Kalimantan Utara,2022,58.3
+882,Kabupaten Tana Tidung,Kalimantan Utara,2022,57.8
+883,Kabupaten Nunukan,Kalimantan Utara,2022,61.7
+884,Kabupaten Kota Tarakan,Kalimantan Utara,2022,59.5
+885,Kabupaten Bolaang Mongondow,Sulawesi Utara,2022,64.6
+886,Kabupaten Minahasa,Sulawesi Utara,2022,71.6
+887,Kabupaten Kepulauan Sangihe,Sulawesi Utara,2022,57.1
+888,Kabupaten Kepulauan Talaud,Sulawesi Utara,2022,59.4
+889,Kabupaten Minahasa Selatan,Sulawesi Utara,2022,69.6
+890,Kabupaten Minahasa Utara,Sulawesi Utara,2022,72.9
+891,Kabupaten Bolaang Mongondow Utara,Sulawesi Utara,2022,62.4
+892,Kabupaten Kep. Siau Tagulandang Biaro,Sulawesi Utara,2022,49.5
+893,Kabupaten Minahasa Tenggara,Sulawesi Utara,2022,68.1
+894,Kabupaten Bolaang Mongondow Selatan,Sulawesi Utara,2022,61.5
+895,Kabupaten Bolaang Mongondow Timur,Sulawesi Utara,2022,70.1
+896,Kota Manado,Sulawesi Utara,2022,73.4
+897,Kota Bitung,Sulawesi Utara,2022,67.9
+898,Kota Tomohon,Sulawesi Utara,2022,76.3
+899,Kota Kotamobago,Sulawesi Utara,2022,63.8
+900,Kabupaten Banggai Kepulauan,Sulawesi Tengah,2022,53.6
+901,Kabupaten Banggai,Sulawesi Tengah,2022,58.8
+902,Kabupaten Morowali,Sulawesi Tengah,2022,61.1
+903,Kabupaten Poso,Sulawesi Tengah,2022,59.7
+904,Kabupaten Donggala,Sulawesi Tengah,2022,61.5
+905,Kabupaten Toli-Toli,Sulawesi Tengah,2022,53.9
+906,Kabupaten Buol,Sulawesi Tengah,2022,45.1
+907,Kabupaten Parigi Moutong,Sulawesi Tengah,2022,58.5
+908,Kabupaten Tojo Una-Una,Sulawesi Tengah,2022,51.6
+909,SKabupaten igi,Sulawesi Tengah,2022,60.2
+910,Banggai Laut,Sulawesi Tengah,2022,66.0
+911,Kabupaten Morowali Utara,Sulawesi Tengah,2022,66.2
+912,Kota Palu,Sulawesi Tengah,2022,58.8
+913,Kabupaten Selayar,Sulawesi Selatan,2022,62.1
+914,Kabupaten Bulukumba,Sulawesi Selatan,2022,70.2
+915,Kabupaten Bantaeng,Sulawesi Selatan,2022,63.0
+916,Kabupaten Jeneponto,Sulawesi Selatan,2022,67.9
+917,Kabupaten Takalar,Sulawesi Selatan,2022,56.5
+918,Kabupaten Gowa,Sulawesi Selatan,2022,59.9
+919,Kabupaten Sinjai,Sulawesi Selatan,2022,62.5
+920,Kabupaten Maros,Sulawesi Selatan,2022,59.3
+921,Kabupaten Pangkajene dan Kepulauan,Sulawesi Selatan,2022,85.8
+922,Kabupaten Barru,Sulawesi Selatan,2022,61.5
+923,Kabupaten Bone,Sulawesi Selatan,2022,56.5
+924,Kabupaten Soppeng,Sulawesi Selatan,2022,60.3
+925,Kabupaten Wajo,Sulawesi Selatan,2022,57.0
+926,Kabupaten Sidenreng Rappang,Sulawesi Selatan,2022,61.8
+927,Kabupaten Pinrang,Sulawesi Selatan,2022,52.1
+928,Kabupaten Enrekang,Sulawesi Selatan,2022,55.9
+929,Kabupaten Luwu,Sulawesi Selatan,2022,60.7
+930,Kabupaten Tana Toraja,Sulawesi Selatan,2022,55.5
+931,Kabupaten Luwu Utara,Sulawesi Selatan,2022,62.3
+932,Kabupaten Luwu Timur,Sulawesi Selatan,2022,68.8
+933,Kabupaten Toraja Utara,Sulawesi Selatan,2022,56.0
+934,Kabupaten Kota Makasar,Sulawesi Selatan,2022,77.5
+935,Kabupaten Kota Pare-Pare,Sulawesi Selatan,2022,59.0
+936,Kabupaten Kota Palopo,Sulawesi Selatan,2022,56.0
+937,Kabupaten Buton,Sulawesi Tenggara,2022,63.4
+938,Kabupaten Muna,Sulawesi Tenggara,2022,58.6
+939,Kabupaten Konawe,Sulawesi Tenggara,2022,59.7
+940,Kabupaten Kolaka,Sulawesi Tenggara,2022,51.5
+941,Kabupaten Konawe Selatan,Sulawesi Tenggara,2022,56.3
+942,Kabupaten Bombana,Sulawesi Tenggara,2022,60.7
+943,Kabupaten Wakatobi,Sulawesi Tenggara,2022,65.4
+944,Kabupaten Kolaka Utara,Sulawesi Tenggara,2022,64.0
+945,Kabupaten Buton Utara,Sulawesi Tenggara,2022,60.0
+946,Kabupaten Konawe Utara,Sulawesi Tenggara,2022,63.1
+947,Kabupaten Kolaka Timur,Sulawesi Tenggara,2022,62.1
+948,Kabupaten Konawe Kepulauan,Sulawesi Tenggara,2022,47.6
+949,Kabupaten Muna Barat,Sulawesi Tenggara,2022,55.9
+950,Kabupaten Buton Tengah,Sulawesi Tenggara,2022,57.2
+951,Kabupaten Buton Selatan,Sulawesi Tenggara,2022,55.8
+952,Kota Kendari,Sulawesi Tenggara,2022,66.7
+953,Kota Bau-Bau,Sulawesi Tenggara,2022,55.1
+954,Kabupaten Boalemo,Gorontalo,2022,60.9
+955,Kabupaten Gorontalo,Gorontalo,2022,57.7
+956,Kabupaten Pohuwato,Gorontalo,2022,54.3
+957,Kabupaten Bone Bolango,Gorontalo,2022,54.8
+958,Kabupaten Gorontalo Utara,Gorontalo,2022,58.3
+959,Kota Gorontalo,Gorontalo,2022,56.2
+960,Kabupaten Majene,Sulawesi Barat,2022,56.9
+961,Kabupaten Polewali Mandar,Sulawesi Barat,2022,67.6
+962,Kabupaten Mamasa,Sulawesi Barat,2022,59.7
+963,Kabupaten Mamuju,Sulawesi Barat,2022,57.9
+964,Kabupaten Mamuju Utara,Sulawesi Barat,2022,60.1
+965,Kabupaten Mamuju Tengah,Sulawesi Barat,2022,58.6
+966,Kabupaten Kepulauan Tanimbar,Maluku,2022,43.8
+967,Kabupaten Maluku Tenggara,Maluku,2022,53.5
+968,Kabupaten Maluku Tengah,Maluku,2022,58.3
+969,Kabupaten Buru,Maluku,2022,48.1
+970,Kabupaten Kepulauan Aru,Maluku,2022,44.0
+971,Kabupaten Seram Bagian Barat,Maluku,2022,49.2
+972,Kabupaten Seram Bagian Timur,Maluku,2022,56.7
+973,Kabupaten Maluku Barat Daya,Maluku,2022,53.9
+974,Kabupaten Buru Selatan,Maluku,2022,45.7
+975,Kota Ambon,Maluku,2022,55.6
+976,Kota Tual,Maluku,2022,50.5
+977,Kabupaten Halmahera Barat,Maluku Utara,2022,54.4
+978,Kabupaten Halmahera Tengah,Maluku Utara,2022,48.5
+979,Kabupaten Kepulauan Sula,Maluku Utara,2022,49.4
+980,Kabupaten Halmahera Selatan,Maluku Utara,2022,59.2
+981,Kabupaten Halmahera Utara,Maluku Utara,2022,53.1
+982,Kabupaten Halmahera Timur,Maluku Utara,2022,52.0
+983,Kabupaten Pulau Morotai,Maluku Utara,2022,56.6
+984,Kabupaten Pulau Taliabu,Maluku Utara,2022,56.8
+985,Kota Ternate,Maluku Utara,2022,57.7
+986,Kota Tidore Kepulauan,Maluku Utara,2022,50.3
+987,Kabupaten Fak-Fak,Papua Barat,2022,67.6
+988,Kabupaten Kaimana,Papua Barat,2022,56.1
+989,Kabupaten Teluk Wondama,Papua Barat,2022,47.0
+990,Kabupaten Teluk Bintuni,Papua Barat,2022,55.3
+991,Kabupaten Manokwari,Papua Barat,2022,58.2
+992,Kabupaten Sorong Selatan,Papua Barat,2022,35.5
+993,Kabupaten Sorong,Papua Barat,2022,57.9
+994,Kabupaten Raja Ampat,Papua Barat,2022,57.5
+995,Kabupaten Tambrauw,Papua Barat,2022,44.3
+996,Kabupaten Maybrat,Papua Barat,2022,49.1
+997,Kabupaten Manokwari Selatan,Papua Barat,2022,57.9
+998,Kabupaten Pegunungan Arfak,Papua Barat,2022,39.3
+999,Kabupaten Kota Sorong,Papua Barat,2022,56.4
+1000,Kabupaten Merauke,Papua,2022,65.7
+1001,Kabupaten Jayawijaya,Papua,2022,42.0
+1002,Kabupaten Jayapura,Papua,2022,51.4
+1003,Kabupaten Nabire,Papua,2022,54.4
+1004,Kabupaten Kepulauan Yapen,Papua,2022,47.0
+1005,Kabupaten Biak Namfor,Papua,2022,43.4
+1006,Kabupaten Paniai,Papua,2022,39.9
+1007,Kabupaten Puncak Jaya,Papua,2022,45.5
+1008,Kabupaten Mimika,Papua,2022,55.5
+1009,Kabupaten Boven Digoel,Papua,2022,41.4
+1010,Kabupaten Mappi,Papua,2022,33.6
+1011,Kabupaten Asmat,Papua,2022,43.5
+1012,Kabupaten Yahukimo,Papua,2022,33.6
+1013,Kabupaten Pegunungan Bintang,Papua,2022,43.5
+1014,Kabupaten Tolikara,Papua,2022,36.0
+1015,Kabupaten Sarmi,Papua,2022,48.1
+1016,Kabupaten Keerom,Papua,2022,41.4
+1017,Kabupaten Waropen,Papua,2022,42.1
+1018,Kabupaten Supiori,Papua,2022,77.1
+1019,Kabupaten Mamberamo Raya,Papua,2022,52.5
+1020,Kabupaten Nduga,Papua,2022,39.4
+1021,Kabupaten Lanny Jaya,Papua,2022,45.8
+1022,Kabupaten Mamberamo Tengah,Papua,2022,29.8
+1023,Kabupaten Yalimo,Papua,2022,41.7
+1024,Kabupaten Puncak,Papua,2022,22.0
+1025,Kabupaten Dogiyai,Papua,2022,28.1
+1026,Kabupaten Intan Jaya,Papua,2022,31.8
+1027,Kabupaten Deiyai,Papua,2022,38.6
+1028,Kota Jayapura,Papua,2022,54.2
+1029,Kabupaten Simeulue,Aceh,2023,57.3
+1030,Kabupaten Aceh Singkil,Aceh,2023,61.8
+1031,Kabupaten Aceh Selatan,Aceh,2023,53.9
+1032,Kabupaten Aceh Tenggara,Aceh,2023,64.5
+1033,Kabupaten Aceh Timur,Aceh,2023,59.8
+1034,Kabupaten Aceh Tengah,Aceh,2023,60.4
+1035,Kabupaten Aceh Barat,Aceh,2023,62.5
+1036,Kabupaten Aceh Besar,Aceh,2023,55.9
+1037,Kabupaten Pidie,Aceh,2023,57.0
+1038,Kabupaten Bireuen,Aceh,2023,61.6
+1039,Kabupaten Aceh Utara,Aceh,2023,56.7
+1040,Kabupaten Aceh Barat Daya,Aceh,2023,60.2
+1041,Kabupaten Gayo Lues,Aceh,2023,69.9
+1042,Kabupaten Aceh Tamiang,Aceh,2023,57.4
+1043,Kabupaten Nagan Raya,Aceh,2023,100.8
+1044,Kabupaten Aceh Jaya,Aceh,2023,66.1
+1045,Kabupaten Bener Meriah,Aceh,2023,69.3
+1046,Kabupaten Pidie Jaya,Aceh,2023,61.1
+1047,Kota Banda Aceh,Aceh,2023,62.7
+1048,Kota Sabang,Aceh,2023,64.8
+1049,Kota Langsa,Aceh,2023,62.0
+1050,Kota Lhokseumawe,Aceh,2023,58.7
+1051,Kota Subulussalam,Aceh,2023,59.9
+1052,Kabupaten Nias,Sumatera Utara,2023,57.4
+1053,Kabupaten Mandailing Natal,Sumatera Utara,2023,64.6
+1054,Kabupaten Tapanuli Selatan,Sumatera Utara,2023,62.1
+1055,Kabupaten Tapanuli Tengah,Sumatera Utara,2023,56.9
+1056,Kabupaten Tapanuli Utara,Sumatera Utara,2023,69.9
+1057,Kabupaten Toba Samosir,Sumatera Utara,2023,73.0
+1058,Kabupaten Labuhan Batu,Sumatera Utara,2023,59.7
+1059,Kabupaten Asahan,Sumatera Utara,2023,60.9
+1060,Kabupaten Simalungun,Sumatera Utara,2023,68.9
+1061,Kabupaten Dairi,Sumatera Utara,2023,62.7
+1062,Kabupaten Karo,Sumatera Utara,2023,70.6
+1063,Kabupaten Deli Serdang,Sumatera Utara,2023,60.6
+1064,Kabupaten Langkat,Sumatera Utara,2023,58.6
+1065,Kabupaten Nias Selatan,Sumatera Utara,2023,55.9
+1066,Kabupaten Humbang Hasundutan,Sumatera Utara,2023,69.1
+1067,Kabupaten Pakpak Bharat,Sumatera Utara,2023,67.1
+1068,Kabupaten Samosir,Sumatera Utara,2023,71.0
+1069,Kabupaten Serdang Bedagai,Sumatera Utara,2023,62.4
+1070,Kabupaten Batu Bara,Sumatera Utara,2023,56.0
+1071,Kabupaten Padang Lawas Utara,Sumatera Utara,2023,64.8
+1072,Kabupaten Padang Lawas,Sumatera Utara,2023,60.2
+1073,Kabupaten Labuhan Batu Selatan,Sumatera Utara,2023,60.7
+1074,Kabupaten Labuhan Batu Utara,Sumatera Utara,2023,60.2
+1075,Kabupaten Nias Utara,Sumatera Utara,2023,59.1
+1076,Kabupaten Nias Barat,Sumatera Utara,2023,55.4
+1077,Kota Sibolga,Sumatera Utara,2023,61.4
+1078,Kota Tanjung Balai,Sumatera Utara,2023,67.5
+1079,Kota Pematang Siantar,Sumatera Utara,2023,69.8
+1080,Kota Tebing Tinggi,Sumatera Utara,2023,72.7
+1081,Kota Medan,Sumatera Utara,2023,66.3
+1082,Kota Binjai,Sumatera Utara,2023,59.2
+1083,Kota Padang Sidimpuan,Sumatera Utara,2023,65.1
+1084,Kota Gunungsitoli,Sumatera Utara,2023,51.4
+1085,Kabupaten Kepulauan Mentawai,Sumatera Barat,2023,53.5
+1086,Kabupaten Pesisir Selatan,Sumatera Barat,2023,57.5
+1087,Kabupaten Solok,Sumatera Barat,2023,63.0
+1088,Kabupaten Sijunjung,Sumatera Barat,2023,57.7
+1089,Kabupaten Tanah Datar,Sumatera Barat,2023,57.1
+1090,Kabupaten Padang Pariaman,Sumatera Barat,2023,54.4
+1091,Kabupaten Agam,Sumatera Barat,2023,59.7
+1092,Kabupaten Limapuluh Koto,Sumatera Barat,2023,61.5
+1093,Kabupaten Pasaman,Sumatera Barat,2023,61.4
+1094,Kabupaten Solok Selatan,Sumatera Barat,2023,62.9
+1095,Kabupaten Dharmas Raya,Sumatera Barat,2023,55.2
+1096,Kabupaten Pasaman Barat,Sumatera Barat,2023,56.6
+1097,Kabupaten Kota Padang,Sumatera Barat,2023,58.9
+1098,Kabupaten Kota Solok,Sumatera Barat,2023,62.0
+1099,Kota Sawah Lunto,Sumatera Barat,2023,58.6
+1100,Kota Padang Panjang,Sumatera Barat,2023,57.2
+1101,Kota Bukittinggi,Sumatera Barat,2023,58.3
+1102,Kota Payakumbuh,Sumatera Barat,2023,64.0
+1103,Kota Pariaman,Sumatera Barat,2023,56.0
+1104,Kabupaten Kuantan Sengingi,Riau,2023,57.6
+1105,Kabupaten Indragiri Hulu,Riau,2023,59.1
+1106,Kabupaten Indragiri Hilir,Riau,2023,56.3
+1107,Kabupaten Pelalawan,Riau,2023,62.5
+1108,Kabupaten Siak,Riau,2023,64.5
+1109,Kabupaten Kampar,Riau,2023,58.6
+1110,Kabupaten Rokan Hulu,Riau,2023,61.3
+1111,Kabupaten Bengkalis,Riau,2023,62.8
+1112,Kabupaten Rokan Hilir,Riau,2023,56.2
+1113,Kabupaten Kepulauan Meranti,Riau,2023,60.1
+1114,Kota Pekanbaru,Riau,2023,60.5
+1115,Kota Dumai,Riau,2023,62.3
+1116,Kabupaten Kerinci,Jambi,2023,65.4
+1117,Kabupaten Merangin,Jambi,2023,52.1
+1118,Kabupaten Sarolangun,Jambi,2023,56.2
+1119,Kabupaten Batang Hari,Jambi,2023,62.5
+1120,Kabupaten Muaro Jambi,Jambi,2023,62.2
+1121,Kabupaten Tanjung Jabung Timur,Jambi,2023,69.3
+1122,Kabupaten Tanjung Jabung Barat,Jambi,2023,56.5
+1123,Kabupaten Tebo,Jambi,2023,53.8
+1124,Kabupaten Bungo,Jambi,2023,62.1
+1125,Kota Jambi,Jambi,2023,60.6
+1126,Kota Sungai Penuh,Jambi,2023,58.2
+1127,Kabupaten Ogan Komering Ulu,Sumatera Selatan,2023,57.3
+1128,Kabupaten Ogan Komering Ilir,Sumatera Selatan,2023,64.9
+1129,Kabupaten Muara Enim,Sumatera Selatan,2023,59.0
+1130,Kabupaten Lahat,Sumatera Selatan,2023,72.8
+1131,Kabupaten Musi Rawas,Sumatera Selatan,2023,65.6
+1132,Kabupaten Musi Banyuasin,Sumatera Selatan,2023,62.9
+1133,Kabupaten Banyuasin,Sumatera Selatan,2023,72.1
+1134,Kabupaten Ogan Komering Ulu Selatan,Sumatera Selatan,2023,59.8
+1135,Kabupaten Ogan Komering Ulu Timur,Sumatera Selatan,2023,60.7
+1136,Kabupaten Ogan Ilir,Sumatera Selatan,2023,59.7
+1137,Kabupaten Empat Lawang,Sumatera Selatan,2023,66.3
+1138,Kabupaten Penukal Abab Lematang Ilir,Sumatera Selatan,2023,59.5
+1139,Kabupaten Musi Rawas Utara,Sumatera Selatan,2023,64.4
+1140,Kota Palembang,Sumatera Selatan,2023,69.5
+1141,Kota Prabumulih,Sumatera Selatan,2023,59.0
+1142,Kota Pagar Alam,Sumatera Selatan,2023,62.5
+1143,Kota Lubuklinggau,Sumatera Selatan,2023,70.4
+1144,Kabupaten Bengkulu Selatan,Bengkulu,2023,86.1
+1145,Kabupaten Rejang Lebong,Bengkulu,2023,61.8
+1146,Kabupaten Bengkulu Utara,Bengkulu,2023,58.7
+1147,Kabupaten Kaur,Bengkulu,2023,61.0
+1148,Kabupaten Seluma,Bengkulu,2023,58.4
+1149,Kabupaten Mukomuko,Bengkulu,2023,58.5
+1150,Kabupaten Lebong,Bengkulu,2023,63.7
+1151,Kabupaten Kepahiang,Bengkulu,2023,59.8
+1152,Kabupaten Bengkulu Tengah,Bengkulu,2023,62.5
+1153,Kota Bengkulu,Bengkulu,2023,59.0
+1154,Kabupaten Lampung Barat,Lampung,2023,63.8
+1155,Kabupaten Tanggamus,Lampung,2023,63.6
+1156,Kabupaten Lampung Selatan,Lampung,2023,60.3
+1157,Kabupaten Lampung Timur,Lampung,2023,58.5
+1158,Kabupaten Lampung Tengah,Lampung,2023,56.7
+1159,Kabupaten Lampung Utara,Lampung,2023,55.0
+1160,Kabupaten Way Kanan,Lampung,2023,62.0
+1161,Kabupaten Tulang Bawang,Lampung,2023,56.0
+1162,Kabupaten Pesawaran,Lampung,2023,63.6
+1163,Kabupaten Pringsewu,Lampung,2023,58.9
+1164,Kabupaten Mesuji,Lampung,2023,58.8
+1165,Kabupaten Tulang Bawang Barat,Lampung,2023,52.2
+1166,Kabupaten Pesisir Barat,Lampung,2023,56.7
+1167,Kota Bandar Lampung,Lampung,2023,61.3
+1168,Kota Metro,Lampung,2023,55.0
+1169,Kabupaten Bangka,Kep. Bangka Belitung,2023,68.8
+1170,Kabupaten Belitung,Kep. Bangka Belitung,2023,65.6
+1171,Kabupaten Bangka Barat,Kep. Bangka Belitung,2023,62.3
+1172,Kabupaten Bangka Tengah,Kep. Bangka Belitung,2023,65.5
+1173,Kabupaten Bangka Selatan,Kep. Bangka Belitung,2023,65.1
+1174,Kabupaten Belitung Timur,Kep. Bangka Belitung,2023,67.6
+1175,Kota Pangkal Pinang,Kep. Bangka Belitung,2023,68.8
+1176,Kabupaten Karimun,Kep. Riau,2023,62.9
+1177,Kabupaten Bintan,Kep. Riau,2023,63.5
+1178,Kabupaten Natuna,Kep. Riau,2023,66.8
+1179,Kabupaten Lingga,Kep. Riau,2023,58.2
+1180,Kabupaten Kepulauan Anambas,Kep. Riau,2023,58.0
+1181,Kota Batam,Kep. Riau,2023,67.5
+1182,Kota Tanjung Pinang,Kep. Riau,2023,70.0
+1183,Kep. Seribu,DKI Jakarta,2023,61.7
+1184,Kota Jakarta Selatan,DKI Jakarta,2023,70.2
+1185,Kota Jakarta Timur,DKI Jakarta,2023,70.4
+1186,Kota Jakarta Pusat,DKI Jakarta,2023,69.1
+1187,Kota Jakarta Barat,DKI Jakarta,2023,66.6
+1188,Kota Jakarta Utara,DKI Jakarta,2023,78.3
+1189,Kabupaten Bogor,Jawa Barat,2023,93.4
+1190,Kabupaten Sukabumi,Jawa Barat,2023,70.0
+1191,Kabupaten Cianjur,Jawa Barat,2023,64.1
+1192,Kabupaten Bandung,Jawa Barat,2023,55.7
+1193,Kabupaten Garut,Jawa Barat,2023,59.8
+1194,Kabupaten Tasikmalaya,Jawa Barat,2023,60.6
+1195,Kabupaten Ciamis,Jawa Barat,2023,67.0
+1196,Kabupaten Kuningan,Jawa Barat,2023,59.4
+1197,Kabupaten Cirebon,Jawa Barat,2023,62.5
+1198,Kabupaten Majalengka,Jawa Barat,2023,62.9
+1199,Kabupaten Sumedang,Jawa Barat,2023,65.1
+1200,Kabupaten Indramayu,Jawa Barat,2023,78.0
+1201,Kabupaten Subang,Jawa Barat,2023,66.9
+1202,Kabupaten Purwakarta,Jawa Barat,2023,66.5
+1203,Kabupaten Karawang,Jawa Barat,2023,67.9
+1204,Kabupaten Bekasi,Jawa Barat,2023,61.9
+1205,Kabupaten Bandung Barat,Jawa Barat,2023,59.8
+1206,Kabupaten Pangandaran,Jawa Barat,2023,68.5
+1207,Kota Bogor,Jawa Barat,2023,63.4
+1208,Kota Sukabumi,Jawa Barat,2023,63.2
+1209,Kota Bandung,Jawa Barat,2023,62.7
+1210,Kota Cirebon,Jawa Barat,2023,62.3
+1211,Kota Bekasi,Jawa Barat,2023,97.9
+1212,Kota Depok,Jawa Barat,2023,63.5
+1213,Kota Cimahi,Jawa Barat,2023,60.6
+1214,Kota Tasikmalaya,Jawa Barat,2023,73.2
+1215,Kota Banjar,Jawa Barat,2023,72.9
+1216,Kabupaten Cilacap,Jawa Tengah,2023,57.4
+1217,Kabupaten Banyumas,Jawa Tengah,2023,58.4
+1218,Kabupaten  Purbalingga,Jawa Tengah,2023,54.0
+1219,Kabupaten Banjarnegara,Jawa Tengah,2023,61.0
+1220,Kabupaten Kebumen,Jawa Tengah,2023,57.9
+1221,Kabupaten Purworejo,Jawa Tengah,2023,55.7
+1222,Kabupaten Wonosobo,Jawa Tengah,2023,65.7
+1223,Kabupaten Magelang,Jawa Tengah,2023,55.0
+1224,Kabupaten Boyolali,Jawa Tengah,2023,53.6
+1225,Kabupaten Klaten,Jawa Tengah,2023,52.9
+1226,Kabupaten Sukoharjo,Jawa Tengah,2023,54.2
+1227,Kabupaten Wonogiri,Jawa Tengah,2023,58.9
+1228,Kabupaten Karanganyar,Jawa Tengah,2023,52.5
+1229,Kabupaten Sragen,Jawa Tengah,2023,60.7
+1230,Kabupaten Grobogan,Jawa Tengah,2023,60.0
+1231,Kabupaten Blora,Jawa Tengah,2023,61.0
+1232,Kabupaten Rembang,Jawa Tengah,2023,67.2
+1233,Kabupaten Pati,Jawa Tengah,2023,66.5
+1234,Kabupaten Kudus,Jawa Tengah,2023,60.4
+1235,Kabupaten Jepara,Jawa Tengah,2023,59.2
+1236,Kabupaten Demak,Jawa Tengah,2023,60.8
+1237,Kabupaten Semarang,Jawa Tengah,2023,56.7
+1238,Kabupaten Temanggung,Jawa Tengah,2023,53.8
+1239,Kabupaten Kendal,Jawa Tengah,2023,60.9
+1240,Kabupaten Batang ,Jawa Tengah,2023,66.3
+1241,Kabupaten Pekalongan,Jawa Tengah,2023,67.1
+1242,Kabupaten Pemalang,Jawa Tengah,2023,68.6
+1243,Kabupaten Tegal,Jawa Tengah,2023,59.5
+1244,Kabupaten Brebes,Jawa Tengah,2023,66.6
+1245,Kota Magelang,Jawa Tengah,2023,52.1
+1246,Kota Surakarta,Jawa Tengah,2023,57.9
+1247,Kota Salatiga,Jawa Tengah,2023,60.7
+1248,Kota Semarang,Jawa Tengah,2023,55.5
+1249,Kota Pekalongan,Jawa Tengah,2023,70.0
+1250,Kota Tegal,Jawa Tengah,2023,67.6
+1251,Kabupaten Kulon Progo,DI Yogyakarta,2023,54.5
+1252,Kabupaten Bantul,DI Yogyakarta,2023,62.6
+1253,Kabupaten Gunung Kidul,DI Yogyakarta,2023,59.7
+1254,Kabupaten Sleman,DI Yogyakarta,2023,69.6
+1255,Kabupaten Yogyakarta,DI Yogyakarta,2023,66.2
+1256,Kabupaten Pacitan,Jawa Timur,2023,58.6
+1257,Kabupaten Ponorogo,Jawa Timur,2023,57.0
+1258,Kabupaten Trenggalek,Jawa Timur,2023,58.0
+1259,Kabupaten Tulungagung,Jawa Timur,2023,58.4
+1260,Kabupaten Blitar,Jawa Timur,2023,53.3
+1261,Kabupaten Kediri,Jawa Timur,2023,60.9
+1262,Kabupaten Malang,Jawa Timur,2023,55.4
+1263,Kabupaten Lumajang,Jawa Timur,2023,69.8
+1264,Kabupaten Jember,Jawa Timur,2023,62.1
+1265,Kabupaten Banyuwangi,Jawa Timur,2023,62.1
+1266,Kabupaten Bondowoso,Jawa Timur,2023,60.4
+1267,Kabupaten Situbondo,Jawa Timur,2023,62.0
+1268,Kabupaten Probolinggo,Jawa Timur,2023,57.4
+1269,Kabupaten Pasuruan,Jawa Timur,2023,63.0
+1270,Kabupaten Sidoarjo,Jawa Timur,2023,56.9
+1271,Kabupaten Mojokerto,Jawa Timur,2023,61.9
+1272,Kabupaten Jombang,Jawa Timur,2023,58.6
+1273,Kabupaten Nganjuk,Jawa Timur,2023,60.6
+1274,Kabupaten Madiun,Jawa Timur,2023,59.1
+1275,Kabupaten Magetan,Jawa Timur,2023,55.3
+1276,Kabupaten Ngawi,Jawa Timur,2023,57.8
+1277,Kabupaten Bojonegoro,Jawa Timur,2023,58.7
+1278,Kabupaten Tuban,Jawa Timur,2023,63.2
+1279,Kabupaten Lamongan,Jawa Timur,2023,68.3
+1280,Kabupaten Gresik,Jawa Timur,2023,62.0
+1281,Kabupaten Bangkalan,Jawa Timur,2023,57.3
+1282,Kabupaten Sampang,Jawa Timur,2023,60.0
+1283,Kabupaten Pamekasan,Jawa Timur,2023,53.7
+1284,Kabupaten Sumenep,Jawa Timur,2023,89.9
+1285,Kota Kediri,Jawa Timur,2023,58.8
+1286,Kota Blitar,Jawa Timur,2023,54.5
+1287,Kota Malang,Jawa Timur,2023,54.5
+1288,Kota Probolinggo,Jawa Timur,2023,55.8
+1289,Kota Pasuruan,Jawa Timur,2023,64.6
+1290,Kota Mojokerto,Jawa Timur,2023,58.2
+1291,Kota Madiun,Jawa Timur,2023,63.0
+1292,Kota Surabaya,Jawa Timur,2023,62.8
+1293,Kota Batu,Jawa Timur,2023,56.5
+1294,Kabupaten Pandeglang,Banten,2023,62.0
+1295,Kabupaten Lebak,Banten,2023,69.5
+1296,Kabupaten Tangerang,Banten,2023,65.0
+1297,Kabupaten Serang,Banten,2023,65.0
+1298,Kota Tangerang,Banten,2023,77.5
+1299,Kota Cilegon,Banten,2023,60.9
+1300,Kota Serang,Banten,2023,64.2
+1301,Kota Tangerang Selatan,Banten,2023,63.2
+1302,Kabupaten Jembrana,Bali,2023,70.4
+1303,Kabupaten Tabanan,Bali,2023,65.4
+1304,Kabupaten Badung,Bali,2023,69.0
+1305,Kabupaten Gianyar,Bali,2023,64.9
+1306,Kabupaten Klungkung,Bali,2023,69.0
+1307,Kabupaten Bangli,Bali,2023,66.0
+1308,Kabupaten Karangasem,Bali,2023,57.5
+1309,Kabupaten Buleleng,Bali,2023,63.5
+1310,Kabupaten Kota Denpasar,Bali,2023,67.5
+1311,Kabupaten Lombok Barat,Nusa Tenggara Barat,2023,74.2
+1312,Kabupaten Lombok Tengah,Nusa Tenggara Barat,2023,75.7
+1313,Kabupaten Lombok Timur,Nusa Tenggara Barat,2023,87.9
+1314,Kabupaten Sumbawa,Nusa Tenggara Barat,2023,67.3
+1315,Kabupaten Dompu,Nusa Tenggara Barat,2023,68.8
+1316,Kabupaten Bima,Nusa Tenggara Barat,2023,94.5
+1317,Kabupaten Sumbawa Barat,Nusa Tenggara Barat,2023,78.2
+1318,Kabupaten Lombok Utara,Nusa Tenggara Barat,2023,77.6
+1319,Kota Mataram,Nusa Tenggara Barat,2023,79.9
+1320,Kota Bima,Nusa Tenggara Barat,2023,58.9
+1321,Kabupaten Sumba Barat,Nusa Tenggara Timur,2023,53.8
+1322,Kabupaten Sumba Timur,Nusa Tenggara Timur,2023,55.1
+1323,Kabupaten Kupang,Nusa Tenggara Timur,2023,52.0
+1324,Kabupaten Timor Tengah Selatan,Nusa Tenggara Timur,2023,52.1
+1325,Kabupaten Timor Tengah Utara,Nusa Tenggara Timur,2023,54.2
+1326,Kabupaten Belu,Nusa Tenggara Timur,2023,53.4
+1327,Kabupaten Alor,Nusa Tenggara Timur,2023,54.9
+1328,Kabupaten Lembata,Nusa Tenggara Timur,2023,54.3
+1329,Kabupaten Flores Timur,Nusa Tenggara Timur,2023,59.7
+1330,Kabupaten Sikka,Nusa Tenggara Timur,2023,48.3
+1331,Kabupaten Ende,Nusa Tenggara Timur,2023,58.5
+1332,Kabupaten Ngada,Nusa Tenggara Timur,2023,59.0
+1333,Kabupaten Manggarai,Nusa Tenggara Timur,2023,61.8
+1334,Kabupaten Rote Ndao,Nusa Tenggara Timur,2023,43.2
+1335,Kabupaten Manggarai Barat,Nusa Tenggara Timur,2023,57.2
+1336,Kabupaten Sumba Tengah,Nusa Tenggara Timur,2023,55.0
+1337,Kabupaten Sumba Barat Daya,Nusa Tenggara Timur,2023,52.4
+1338,Kabupaten Nagekeo,Nusa Tenggara Timur,2023,47.3
+1339,Kabupaten Manggarai Timur,Nusa Tenggara Timur,2023,60.0
+1340,Kabupaten Sabu Raijua,Nusa Tenggara Timur,2023,62.0
+1341,Kabupaten Malaka,Nusa Tenggara Timur,2023,54.3
+1342,Kota Kupang,Nusa Tenggara Timur,2023,53.6
+1343,Kabupaten Sambas,Kalimantan Barat,2023,63.3
+1344,Kabupaten Bengkayang,Kalimantan Barat,2023,60.9
+1345,Kabupaten Landak,Kalimantan Barat,2023,64.4
+1346,Kabupaten Mempawah,Kalimantan Barat,2023,60.7
+1347,Kabupaten Sanggau,Kalimantan Barat,2023,51.2
+1348,Kabupaten Ketapang,Kalimantan Barat,2023,58.1
+1349,Kabupaten Sintang,Kalimantan Barat,2023,56.8
+1350,Kabupaten Kapuas Hulu,Kalimantan Barat,2023,63.4
+1351,Kabupaten Sekadau,Kalimantan Barat,2023,56.9
+1352,Kabupaten Melawi,Kalimantan Barat,2023,56.5
+1353,Kabupaten Kayong Utara,Kalimantan Barat,2023,63.1
+1354,Kabupaten Kubu Raya,Kalimantan Barat,2023,50.8
+1355,Kota Pontianak,Kalimantan Barat,2023,61.3
+1356,Kota Singkawang,Kalimantan Barat,2023,58.8
+1357,Kabupaten Kotawaringin Barat,Kalimantan Tengah,2023,66.1
+1358,Kabupaten Kotawaringin Timur,Kalimantan Tengah,2023,65.0
+1359,Kabupaten Kapuas,Kalimantan Tengah,2023,61.7
+1360,Kabupaten Barito Selatan,Kalimantan Tengah,2023,62.4
+1361,Kabupaten Barito Utara,Kalimantan Tengah,2023,55.5
+1362,Kabupaten Sukamara,Kalimantan Tengah,2023,69.2
+1363,Kabupaten Lamandau,Kalimantan Tengah,2023,72.3
+1364,Kabupaten Seruyan,Kalimantan Tengah,2023,60.6
+1365,Kabupaten Katingan,Kalimantan Tengah,2023,64.5
+1366,Kabupaten Pulang Pisau,Kalimantan Tengah,2023,65.8
+1367,Kabupaten Gunung Mas,Kalimantan Tengah,2023,59.5
+1368,Kabupaten Barito Timur,Kalimantan Tengah,2023,64.9
+1369,Kabupaten Murung Raya,Kalimantan Tengah,2023,55.5
+1370,Kota Palangka Raya,Kalimantan Tengah,2023,69.2
+1371,Kabupaten Tanah Laut,Kalimantan Selatan,2023,69.1
+1372,Kabupaten Kota Baru,Kalimantan Selatan,2023,65.7
+1373,Kabupaten Banjar,Kalimantan Selatan,2023,65.5
+1374,Kabupaten Barito Kuala,Kalimantan Selatan,2023,65.4
+1375,Kabupaten Tapin,Kalimantan Selatan,2023,72.7
+1376,Hulu Sungai Selatan,Kalimantan Selatan,2023,71.7
+1377,Hulu Sungai Tengah,Kalimantan Selatan,2023,73.9
+1378,Hulu Sungai Utara,Kalimantan Selatan,2023,62.7
+1379,Kabupaten Tabalong,Kalimantan Selatan,2023,64.3
+1380,Kabupaten Tanah Bumbu,Kalimantan Selatan,2023,68.6
+1381,Kabupaten Balangan,Kalimantan Selatan,2023,62.4
+1382,Kabupaten Kota Banjarmasin,Kalimantan Selatan,2023,66.2
+1383,Kota Banjar Baru,Kalimantan Selatan,2023,69.7
+1384,Kabupaten Paser,Kalimantan Timur,2023,64.5
+1385,Kabupaten Kutai Barat,Kalimantan Timur,2023,67.6
+1386,Kabupaten Kutai Kertanegara,Kalimantan Timur,2023,65.0
+1387,Kabupaten Kutai Timur,Kalimantan Timur,2023,66.1
+1388,Kabupaten Berau,Kalimantan Timur,2023,65.1
+1389,Kabupaten Penajam Paser Utara,Kalimantan Timur,2023,59.1
+1390,Kabupaten Mahakam Ulu,Kalimantan Timur,2023,61.1
+1391,Kabupaten Kota Balikpapan,Kalimantan Timur,2023,66.2
+1392,Kota Samarinda,Kalimantan Timur,2023,67.8
+1393,Kota Bontang,Kalimantan Timur,2023,64.2
+1394,Kabupaten Malinau,Kalimantan Utara,2023,57.9
+1395,Kabupaten Bulungan,Kalimantan Utara,2023,66.8
+1396,Kabupaten Tana Tidung,Kalimantan Utara,2023,60.9
+1397,Kabupaten Nunukan,Kalimantan Utara,2023,58.1
+1398,Kabupaten Kota Tarakan,Kalimantan Utara,2023,64.5
+1399,Kabupaten Bolaang Mongondow,Sulawesi Utara,2023,60.0
+1400,Kabupaten Minahasa,Sulawesi Utara,2023,71.0
+1401,Kabupaten Kepulauan Sangihe,Sulawesi Utara,2023,56.0
+1402,Kabupaten Kepulauan Talaud,Sulawesi Utara,2023,62.0
+1403,Kabupaten Minahasa Selatan,Sulawesi Utara,2023,69.0
+1404,Kabupaten Minahasa Utara,Sulawesi Utara,2023,67.0
+1405,Kabupaten Bolaang Mongondow Utara,Sulawesi Utara,2023,61.0
+1406,Kabupaten Kep. Siau Tagulandang Biaro,Sulawesi Utara,2023,55.0
+1407,Kabupaten Minahasa Tenggara,Sulawesi Utara,2023,65.0
+1408,Kabupaten Bolaang Mongondow Selatan,Sulawesi Utara,2023,58.8
+1409,Kabupaten Bolaang Mongondow Timur,Sulawesi Utara,2023,65.6
+1410,Kota Manado,Sulawesi Utara,2023,63.5
+1411,Kota Bitung,Sulawesi Utara,2023,70.5
+1412,Kota Tomohon,Sulawesi Utara,2023,71.3
+1413,Kota Kotamobago,Sulawesi Utara,2023,63.6
+1414,Kabupaten Banggai Kepulauan,Sulawesi Tengah,2023,58.4
+1415,Kabupaten Banggai,Sulawesi Tengah,2023,60.6
+1416,Kabupaten Morowali,Sulawesi Tengah,2023,68.6
+1417,Kabupaten Poso,Sulawesi Tengah,2023,62.7
+1418,Kabupaten Donggala,Sulawesi Tengah,2023,74.5
+1419,Kabupaten Toli-Toli,Sulawesi Tengah,2023,50.3
+1420,Kabupaten Buol,Sulawesi Tengah,2023,48.6
+1421,Kabupaten Parigi Moutong,Sulawesi Tengah,2023,52.5
+1422,Kabupaten Tojo Una-Una,Sulawesi Tengah,2023,51.5
+1423,SKabupaten igi,Sulawesi Tengah,2023,58.1
+1424,Banggai Laut,Sulawesi Tengah,2023,59.0
+1425,Kabupaten Morowali Utara,Sulawesi Tengah,2023,60.7
+1426,Kota Palu,Sulawesi Tengah,2023,61.0
+1427,Kabupaten Selayar,Sulawesi Selatan,2023,63.8
+1428,Kabupaten Bulukumba,Sulawesi Selatan,2023,66.0
+1429,Kabupaten Bantaeng,Sulawesi Selatan,2023,58.1
+1430,Kabupaten Jeneponto,Sulawesi Selatan,2023,67.7
+1431,Kabupaten Takalar,Sulawesi Selatan,2023,71.9
+1432,Kabupaten Gowa,Sulawesi Selatan,2023,64.5
+1433,Kabupaten Sinjai,Sulawesi Selatan,2023,65.8
+1434,Kabupaten Maros,Sulawesi Selatan,2023,66.4
+1435,Kabupaten Pangkajene dan Kepulauan,Sulawesi Selatan,2023,80.0
+1436,Kabupaten Barru,Sulawesi Selatan,2023,61.5
+1437,Kabupaten Bone,Sulawesi Selatan,2023,54.7
+1438,Kabupaten Soppeng,Sulawesi Selatan,2023,64.9
+1439,Kabupaten Wajo,Sulawesi Selatan,2023,62.6
+1440,Kabupaten Sidenreng Rappang,Sulawesi Selatan,2023,61.4
+1441,Kabupaten Pinrang,Sulawesi Selatan,2023,61.7
+1442,Kabupaten Enrekang,Sulawesi Selatan,2023,65.5
+1443,Kabupaten Luwu,Sulawesi Selatan,2023,64.3
+1444,Kabupaten Tana Toraja,Sulawesi Selatan,2023,63.4
+1445,Kabupaten Luwu Utara,Sulawesi Selatan,2023,73.3
+1446,Kabupaten Luwu Timur,Sulawesi Selatan,2023,66.0
+1447,Kabupaten Toraja Utara,Sulawesi Selatan,2023,58.5
+1448,Kabupaten Kota Makasar,Sulawesi Selatan,2023,63.0
+1449,Kabupaten Kota Pare-Pare,Sulawesi Selatan,2023,63.7
+1450,Kabupaten Kota Palopo,Sulawesi Selatan,2023,60.7
+1451,Kabupaten Buton,Sulawesi Tenggara,2023,58.7
+1452,Kabupaten Muna,Sulawesi Tenggara,2023,56.3
+1453,Kabupaten Konawe,Sulawesi Tenggara,2023,63.0
+1454,Kabupaten Kolaka,Sulawesi Tenggara,2023,68.4
+1455,Kabupaten Konawe Selatan,Sulawesi Tenggara,2023,61.9
+1456,Kabupaten Bombana,Sulawesi Tenggara,2023,59.8
+1457,Kabupaten Wakatobi,Sulawesi Tenggara,2023,63.5
+1458,Kabupaten Kolaka Utara,Sulawesi Tenggara,2023,61.3
+1459,Kabupaten Buton Utara,Sulawesi Tenggara,2023,59.6
+1460,Kabupaten Konawe Utara,Sulawesi Tenggara,2023,59.4
+1461,Kabupaten Kolaka Timur,Sulawesi Tenggara,2023,56.4
+1462,Kabupaten Konawe Kepulauan,Sulawesi Tenggara,2023,54.5
+1463,Kabupaten Muna Barat,Sulawesi Tenggara,2023,55.7
+1464,Kabupaten Buton Tengah,Sulawesi Tenggara,2023,55.3
+1465,Kabupaten Buton Selatan,Sulawesi Tenggara,2023,58.8
+1466,Kota Kendari,Sulawesi Tenggara,2023,68.8
+1467,Kota Bau-Bau,Sulawesi Tenggara,2023,51.9
+1468,Kabupaten Boalemo,Gorontalo,2023,64.9
+1469,Kabupaten Gorontalo,Gorontalo,2023,61.3
+1470,Kabupaten Pohuwato,Gorontalo,2023,54.5
+1471,Kabupaten Bone Bolango,Gorontalo,2023,51.9
+1472,Kabupaten Gorontalo Utara,Gorontalo,2023,61.8
+1473,Kota Gorontalo,Gorontalo,2023,54.7
+1474,Kabupaten Majene,Sulawesi Barat,2023,58.3
+1475,Kabupaten Polewali Mandar,Sulawesi Barat,2023,65.0
+1476,Kabupaten Mamasa,Sulawesi Barat,2023,55.6
+1477,Kabupaten Mamuju,Sulawesi Barat,2023,58.0
+1478,Kabupaten Mamuju Utara,Sulawesi Barat,2023,61.1
+1479,Kabupaten Mamuju Tengah,Sulawesi Barat,2023,53.8
+1480,Kabupaten Kepulauan Tanimbar,Maluku,2023,44.4
+1481,Kabupaten Maluku Tenggara,Maluku,2023,50.1
+1482,Kabupaten Maluku Tengah,Maluku,2023,57.1
+1483,Kabupaten Buru,Maluku,2023,52.0
+1484,Kabupaten Kepulauan Aru,Maluku,2023,46.3
+1485,Kabupaten Seram Bagian Barat,Maluku,2023,52.4
+1486,Kabupaten Seram Bagian Timur,Maluku,2023,55.8
+1487,Kabupaten Maluku Barat Daya,Maluku,2023,60.6
+1488,Kabupaten Buru Selatan,Maluku,2023,43.2
+1489,Kota Ambon,Maluku,2023,53.2
+1490,Kota Tual,Maluku,2023,52.8
+1491,Kabupaten Halmahera Barat,Maluku Utara,2023,53.5
+1492,Kabupaten Halmahera Tengah,Maluku Utara,2023,51.9
+1493,Kabupaten Kepulauan Sula,Maluku Utara,2023,44.1
+1494,Kabupaten Halmahera Selatan,Maluku Utara,2023,55.0
+1495,Kabupaten Halmahera Utara,Maluku Utara,2023,49.2
+1496,Kabupaten Halmahera Timur,Maluku Utara,2023,47.8
+1497,Kabupaten Pulau Morotai,Maluku Utara,2023,60.7
+1498,Kabupaten Pulau Taliabu,Maluku Utara,2023,59.5
+1499,Kota Ternate,Maluku Utara,2023,55.3
+1500,Kota Tidore Kepulauan,Maluku Utara,2023,51.8
+1501,Kabupaten Fak-Fak,Papua Barat,2023,53.8
+1502,Kabupaten Kaimana,Papua Barat,2023,54.7
+1503,Kabupaten Teluk Wondama,Papua Barat,2023,49.6
+1504,Kabupaten Teluk Bintuni,Papua Barat,2023,55.9
+1505,Kabupaten Manokwari,Papua Barat,2023,53.4
+1506,Kabupaten Sorong Selatan,Papua Barat,2023,40.5
+1507,Kabupaten Sorong,Papua Barat,2023,59.2
+1508,Kabupaten Raja Ampat,Papua Barat,2023,58.9
+1509,Kabupaten Tambrauw,Papua Barat,2023,42.8
+1510,Kabupaten Maybrat,Papua Barat,2023,45.7
+1511,Kabupaten Manokwari Selatan,Papua Barat,2023,53.1
+1512,Kabupaten Pegunungan Arfak,Papua Barat,2023,41.8
+1513,Kabupaten Kota Sorong,Papua Barat,2023,60.0
+1514,Kabupaten Merauke,Papua,2023,65.5
+1515,Kabupaten Jayawijaya,Papua,2023,41.7
+1516,Kabupaten Jayapura,Papua,2023,65.8
+1517,Kabupaten Nabire,Papua,2023,59.5
+1518,Kabupaten Kepulauan Yapen,Papua,2023,53.4
+1519,Kabupaten Biak Namfor,Papua,2023,48.5
+1520,Kabupaten Paniai,Papua,2023,40.0
+1521,Kabupaten Puncak Jaya,Papua,2023,39.5
+1522,Kabupaten Mimika,Papua,2023,56.6
+1523,Kabupaten Boven Digoel,Papua,2023,44.6
+1524,Kabupaten Mappi,Papua,2023,37.1
+1525,Kabupaten Asmat,Papua,2023,40.7
+1526,Kabupaten Yahukimo,Papua,2023,33.1
+1527,Kabupaten Pegunungan Bintang,Papua,2023,33.6
+1528,Kabupaten Tolikara,Papua,2023,39.4
+1529,Kabupaten Sarmi,Papua,2023,50.7
+1530,Kabupaten Keerom,Papua,2023,41.7
+1531,Kabupaten Waropen,Papua,2023,43.8
+1532,Kabupaten Supiori,Papua,2023,70.7
+1533,Kabupaten Mamberamo Raya,Papua,2023,73.1
+1534,Kabupaten Nduga,Papua,2023,30.1
+1535,Kabupaten Lanny Jaya,Papua,2023,44.1
+1536,Kabupaten Mamberamo Tengah,Papua,2023,30.7
+1537,Kabupaten Yalimo,Papua,2023,50.1
+1538,Kabupaten Puncak,Papua,2023,21.6
+1539,Kabupaten Dogiyai,Papua,2023,44.6
+1540,Kabupaten Intan Jaya,Papua,2023,38.3
+1541,Kabupaten Deiyai,Papua,2023,40.0
+1542,Kota Jayapura,Papua,2023,60.5
