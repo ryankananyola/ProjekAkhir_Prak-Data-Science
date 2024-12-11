@@ -1,6 +1,6 @@
 ---
 title: "projek_ds"
-author: "Jaconiah-123220088"
+author: "123220088-123220195-123220198"
 date: "2024-12-01"
 output: pdf_document
 ---
